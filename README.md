@@ -1,4 +1,4 @@
-# Prompt Hierarchy
+# GW-DPO
 
 Code accompanying the paper *"Prompt Hierarchy: Training LLMs to Enforce Multi-Level Instruction Hierarchies via Gravity-Weighted DPO"*.
 
