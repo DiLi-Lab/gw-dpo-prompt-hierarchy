@@ -1,0 +1,25 @@
+{
+  "total": 1752,
+  "by_conflict_type": {
+    "L0_vs_L1": 66,
+    "L0_vs_L2": 63,
+    "L0_vs_L3": 71,
+    "L0_vs_L4": 70,
+    "L1_vs_L2": 75,
+    "L1_vs_L3": 98,
+    "L1_vs_L4": 82,
+    "L2_vs_L3": 83,
+    "L2_vs_L4": 67,
+    "L3_vs_L4": 83,
+    "none": 994
+  },
+  "by_split": {
+    "val": 458,
+    "aligned": 994,
+    "reference": 300
+  },
+  "by_base_dataset": {
+    "alpaca": 1497,
+    "dolly": 255
+  }
+}

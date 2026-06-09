@@ -1,0 +1,13 @@
+# XSTest external-benchmark configuration.
+# Loaded via load_config(Path("configs/xstest.yaml"));
+# configs/base_linear.yaml is merged underneath for
+# ModelConfig/SFTConfig/etc.
+
+xstest:
+  data_csv: "data/external/xstest/xstest_prompts.csv"
+  judge_model: "gpt-4o"
+  judge_temperature: 0.0
+  judge_max_tokens: 16
+  generation_max_new_tokens: 512
+  generation_temperature: 0.0
+  generation_batch_size: 4

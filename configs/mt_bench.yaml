@@ -1,0 +1,27 @@
+# MT-Bench external-benchmark configuration.
+# Loaded via load_config(Path("configs/mt_bench.yaml"));
+# configs/base_linear.yaml is merged underneath for
+# ModelConfig/SFTConfig/etc.
+
+mt_bench:
+  question_jsonl:           "data/external/mt_bench/question.jsonl"
+  reference_answer_jsonl:   "data/external/mt_bench/reference_answer_gpt4.jsonl"
+  judge_prompts_jsonl:      "data/external/mt_bench/judge_prompts.jsonl"
+
+  judge_model:              "gpt-4o"
+  judge_temperature:        0.0
+  judge_temperature_retry:  0.2
+  judge_max_tokens:         2048
+
+  generation_max_new_tokens: 1024
+  generation_batch_size:     4
+
+  temperature_per_category:
+    writing:    0.7
+    roleplay:   0.7
+    humanities: 0.7
+    extraction: 0.0
+    reasoning:  0.0
+    math:       0.0
+    coding:     0.0
+    stem:       0.0

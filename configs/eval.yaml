@@ -1,0 +1,16 @@
+eval:
+  count_per_pair: 100
+  num_pairs: 10
+  reference_per_pair: 30
+  near_dedup_threshold: 0.85
+  scenario_model: "gpt-4o"
+  scenario_temperature: 0.7
+  scenario_max_tokens: 2000
+  gold_model: "claude-sonnet-4-20250514"
+  gold_temperature: 0.3
+  control_model: "gpt-4o-mini"
+  judge_model_1: "gpt-4o"
+  judge_model_2: "gemini-2.5-pro"
+  judge_min_score: 4
+  max_retries: 2
+  seed: 42

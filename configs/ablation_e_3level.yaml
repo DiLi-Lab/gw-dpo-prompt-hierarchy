@@ -1,0 +1,127 @@
+# Ablation (e): SFT + 3-level GW-DPO.
+#
+# Identical to configs/base_linear.yaml except:
+#   - dpo.train_split_name = train_3level (data/dpo/train_3level/)
+#   - dpo.val_split_name   = val_3level   (data/dpo/val_3level/)
+#   - dpo.num_curriculum_stages = 2
+#   - dpo.curriculum_min_gap_by_stage = {1: 2}
+#
+# All other DPO hyperparameters (beta=0.1, gravity_alpha=0.3, LoRA, sDPO,
+# sequence length, batch size) are held at the (d)-canonical values from
+# the HP sweep. The (d) -> (e) gap therefore attributes cleanly to
+# training-data hierarchy depth, with architecture and tuning held
+# constant. See docs/superpowers/specs/2026-05-03-3level-gw-dpo-ablation-design.md.
+#
+# Run with:
+#   # Materialise the 3-level data (one-shot):
+#   python bin/build_3level_dpo_dataset.py
+#
+#   # DPO using the (b) SFT-merged checkpoint and a distinct final dir:
+#   python bin/train_dpo.py \
+#       --config configs/ablation_e_3level.yaml \
+#       --merged-dir models/llama-3.1-8b-sft-merged \
+#       --final-dir  models/llama-3.1-8b-3level-gw-dpo-final
+#
+# --merged-dir reuses the existing (b) artifact (architecturally identical
+# to (d), so no new SFT phase is needed). --final-dir is mandatory:
+# without it the trainer would overwrite (d).
+
+model:
+  model_name_or_path: "meta-llama/Llama-3.1-8B-Instruct"
+  torch_dtype: "bfloat16"
+  num_segments: 6
+  token_embedding_init: "mean"
+  ise_embedding_init: "normal"
+  ise_init_std: 0.01
+  use_ise: true
+
+sft:
+  learning_rate: 2.0e-5
+  lr_scheduler: "cosine"
+  warmup_ratio: 0.03
+  num_epochs: 3
+  per_device_batch_size: 4
+  gradient_accumulation_steps: 8
+  max_seq_length: 4096
+  weight_decay: 0.01
+  precision: "bf16"
+  lora_rank: 64
+  lora_alpha: 128
+  lora_dropout: 0.1
+  lora_target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+  task_type: "CAUSAL_LM"
+  save_steps: 50
+  eval_steps: 50
+  save_total_limit: 5
+  metric_for_best_model: "eval_loss"
+  greater_is_better: false
+  remove_unused_columns: false
+  logging_steps: 1
+
+dpo:
+  beta: 0.1
+  gravity_alpha: 0.3
+  margin_schedule: "gap"
+  learning_rate: 5.0e-5
+  lr_scheduler: "cosine"
+  warmup_ratio: 0.03
+  num_curriculum_stages: 2
+  curriculum_enabled: true
+  epochs_per_stage: 1
+  per_device_batch_size: 1
+  gradient_accumulation_steps: 32
+  max_seq_length: 2048
+  weight_decay: 0.01
+  precision: "bf16"
+  lora_rank: 64
+  lora_alpha: 128
+  lora_dropout: 0.1
+  lora_target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+  task_type: "CAUSAL_LM"
+  # Stage-1 size ~3.7K pairs (~117 steps) and stage-2 size ~7.3K (~227 steps)
+  # at effective batch 32; drop save/eval cadence so end-of-stage evals land
+  # on a checkpoint.
+  save_steps: 20
+  eval_steps: 20
+  save_total_limit: 2
+  metric_for_best_model: "eval_loss"
+  greater_is_better: false
+  remove_unused_columns: false
+  logging_steps: 1
+  # Ablation (e) routing.
+  train_split_name: "train_3level"
+  val_split_name: "val_3level"
+  curriculum_min_gap_by_stage: {1: 2}
+
+eval:
+  count_per_pair: 100
+  num_pairs: 10
+  reference_per_pair: 30
+  near_dedup_threshold: 0.85
+  scenario_model: "gpt-4o"
+  scenario_temperature: 0.7
+  scenario_max_tokens: 2000
+  gold_model: "claude-sonnet-4-20250514"
+  gold_temperature: 0.3
+  control_model: "gpt-4o-mini"
+  judge_model_1: "gpt-4o"
+  judge_model_2: "gemini-2.5-pro"
+  judge_min_score: 4
+  max_retries: 2
+  seed: 42
+
+evaluation:
+  generation_max_new_tokens: 1024
+  generation_temperature: 0.0
+  generation_batch_size: 4
+  judge_model: "gpt-4o"
+  judge_temperature: 0.0
+  judge_max_tokens: 800
+  orr_min_response_chars_for_judge: 200
+  reward_batch_size: 2
+  bertscore_model: "roberta-large"
+  run_text_similarity: true
+  run_rewards: false
+
+paths:
+  project_root: "."

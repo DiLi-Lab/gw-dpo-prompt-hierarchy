@@ -1,0 +1,143 @@
+# Base configuration for the 5-level instruction hierarchy project,
+# linear-schedule production run (dpo.margin_schedule = "gap").
+#
+# This is one of the two headline production configurations reported in
+# the paper:
+#
+#   - base_linear.yaml    → linear margin schedule (this file)
+#                           δ = j − i
+#   - base_bilateral.yaml → bilateral / victim-weighted schedule
+#                           δ = (j − i)·(k − 1 − i), k = 5
+#
+# Both files are first-class production runs. The trainer multiplies δ
+# by gravity_alpha at runtime in either case. The remaining
+# `configs/ablation_*.yaml` files override only the fields that differ
+# from this baseline.
+#
+# Override any value via CLI: --override section.key=value
+#
+# IMPORTANT: All parameters must be specified here. The codebase has no
+# default values — missing keys will raise an error at startup.
+
+model:
+  model_name_or_path: "meta-llama/Llama-3.1-8B-Instruct"
+  torch_dtype: "bfloat16"
+  num_segments: 6
+  token_embedding_init: "mean"   # for new special tokens (StruQ: mean of existing embeddings)
+  ise_embedding_init: "normal"   # for ISE segment layer (normal distribution, mean=0, std=0.01)
+  ise_init_std: 0.01             # std for ISE normal initialization
+  use_ise: true                  # false = (f) tokens-only ablation (skip ISE layer entirely)
+
+sft:
+  learning_rate: 2.0e-5
+  lr_scheduler: "cosine"
+  warmup_ratio: 0.03
+  num_epochs: 3
+  per_device_batch_size: 4
+  gradient_accumulation_steps: 8
+  max_seq_length: 4096
+  weight_decay: 0.01
+  precision: "bf16"
+  # LoRA
+  lora_rank: 64
+  lora_alpha: 128
+  lora_dropout: 0.1
+  lora_target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+  task_type: "CAUSAL_LM"
+  # Checkpointing and evaluation
+  save_steps: 50
+  eval_steps: 50
+  save_total_limit: 5
+  metric_for_best_model: "eval_loss"
+  greater_is_better: false
+  remove_unused_columns: false
+  logging_steps: 1
+
+dpo:
+  # Note on save_steps / eval_steps sizing
+  # -------------------------------------
+  # DPO is run as a 3-stage curriculum on cumulative subsets of the train
+  # set. With ~8.7K train pairs and an effective batch of 32 (single-GPU),
+  # the stages are ~130 / ~208 / ~273 optimizer steps. run_dpo_curriculum
+  # also fires one end-of-stage trainer.evaluate() so the final weights
+  # are always considered by BestCheckpointCallback even when max_steps
+  # does not align with eval_steps. If you change per_device_batch_size,
+  # gradient_accumulation_steps, GPU count, or curriculum composition,
+  # recompute and re-tune these values.
+  beta: 0.1
+  gravity_alpha: 0.3
+  # margin_schedule selects how the per-sample DPO margin δ is derived
+  # from the (victim_level i, attacker_level j) of each preference pair.
+  # The trainer multiplies the result by gravity_alpha at runtime.
+  #   "gap"          → δ = j − i  (current GW-DPO; reads persisted column)
+  #   "bilateral"    → δ = (j − i)·(k − 1 − i), k=5  (bilateral / victim-weighted gravity)
+  # Calibration rows always force δ = 0 regardless of schedule.
+  margin_schedule: "gap"
+  learning_rate: 5.0e-5
+  lr_scheduler: "cosine"
+  warmup_ratio: 0.03
+  num_curriculum_stages: 3
+  # Set curriculum_enabled: false to train a single stage on the full
+  # unfiltered train set (used by HP search for ~2x faster runs). The
+  # 3-stage easy→hard curriculum is kept on for production training.
+  curriculum_enabled: true
+  epochs_per_stage: 1
+  per_device_batch_size: 1
+  gradient_accumulation_steps: 32
+  max_seq_length: 2048
+  weight_decay: 0.01
+  precision: "bf16"
+  # LoRA
+  lora_rank: 64
+  lora_alpha: 128
+  lora_dropout: 0.1
+  lora_target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+  task_type: "CAUSAL_LM"
+  # Checkpointing and evaluation
+  save_steps: 30
+  eval_steps: 30
+  save_total_limit: 2
+  metric_for_best_model: "eval_loss"
+  greater_is_better: false
+  remove_unused_columns: false
+  logging_steps: 1
+  # Data routing (default = 5-level data at data/dpo/{train,val}/).
+  # Ablation (e) overrides these to train_3level / val_3level.
+  train_split_name: "train"
+  val_split_name: "val"
+  # Curriculum schedule. null preserves the 5-level {1: 3, 2: 2} default
+  # baked into src/training/curriculum.py. Ablation (e) sets {1: 2}.
+  curriculum_min_gap_by_stage: null
+
+eval:
+  count_per_pair: 100
+  num_pairs: 10
+  reference_per_pair: 30
+  near_dedup_threshold: 0.85
+  scenario_model: "gpt-4o"
+  scenario_temperature: 0.7
+  scenario_max_tokens: 2000
+  gold_model: "claude-sonnet-4-20250514"
+  gold_temperature: 0.3
+  control_model: "gpt-4o-mini"
+  judge_model_1: "gpt-4o"
+  judge_model_2: "gemini-2.5-pro"
+  judge_min_score: 4
+  max_retries: 2
+  seed: 42
+
+evaluation:
+  generation_max_new_tokens: 1024
+  generation_temperature: 0.0
+  generation_batch_size: 4
+  judge_model: "gpt-4o"
+  judge_temperature: 0.0
+  judge_max_tokens: 800
+  orr_min_response_chars_for_judge: 200
+  reward_batch_size: 2
+  bertscore_model: "roberta-large"
+  run_text_similarity: true
+  run_rewards: false
+
+paths:
+  project_root: "."

@@ -1,0 +1,1021 @@
+{"sft_source": "alpaca", "sft_index": 7683, "l2_text": "- \"User preferences: Language=English, Tone=professional, Length=detailed, Content filter=educational.\""}
+{"sft_source": "alpaca", "sft_index": 9948, "l2_text": "- \"Configuration: professional tone, detailed length, technical expertise, content filter: workplace safety.\""}
+{"sft_source": "alpaca", "sft_index": 7983, "l2_text": "User preferences: Language=English, Tone=encouraging, Length=medium, Content Filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 17600, "l2_text": "User settings: Language=English, Tone=engaging, Length=concise, Content filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 4116, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 2814, "l2_text": "Preferences: Language=English, Tone=family-friendly, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 16835, "l2_text": "Settings: English language, concise output, casual tone, beginner-level expertise."}
+{"sft_source": "dolly", "sft_index": 12205, "l2_text": "- \"Session config: Tone: upbeat. Length: concise. Content filter: trivia-focused.\""}
+{"sft_source": "dolly", "sft_index": 4616, "l2_text": "Session config: Tone: factual. Length: brief. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 4367, "l2_text": "- \"User preferences: Language=English, Tone=educational, Length=detailed, Content filter=diverse perspectives.\""}
+{"sft_source": "dolly", "sft_index": 3377, "l2_text": "User preferences: Language=English, Tone=professional, Length=detailed."}
+{"sft_source": "alpaca", "sft_index": 9649, "l2_text": "- \"Config: Tone: narrative. Format: letters and documents. Length: medium. Content filter: creative storytelling.\""}
+{"sft_source": "alpaca", "sft_index": 2305, "l2_text": "Configuration: Tone: professional, Length: detailed, Content filter: scholarly accuracy."}
+{"sft_source": "alpaca", "sft_index": 3542, "l2_text": "Session config: Tone: authoritative. Length: detailed. Format: numbered lists. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 11730, "l2_text": "Preferences: Tone=child-friendly, Format=numbered lists, Content filter=positive, Expertise=beginner."}
+{"sft_source": "alpaca", "sft_index": 2241, "l2_text": "Session config: Tone: creative. Length: moderate. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 3659, "l2_text": "- \"Config: Tone: sophisticated. Length: concise. Content filter: literary-focused.\""}
+{"sft_source": "alpaca", "sft_index": 8687, "l2_text": "- \"Configuration: formal tone, creative output, intermediate expertise, content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 5527, "l2_text": "Configuration: tone=professional, length=detailed, expertise=expert, content_filter=technical."}
+{"sft_source": "alpaca", "sft_index": 16479, "l2_text": "Session config: Tone: helpful. Length: concise. Content filter: educational-only. Access: public."}
+{"sft_source": "alpaca", "sft_index": 15115, "l2_text": "Session config: Tone: educational. Length: detailed. Format: numbered lists. Content filter: academic focus."}
+{"sft_source": "dolly", "sft_index": 11902, "l2_text": "Session config: Tone: accessible. Length: concise. Content filter: general audience."}
+{"sft_source": "dolly", "sft_index": 9353, "l2_text": "- Tone: informative. Format: bullet points. Length: concise. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 1358, "l2_text": "- \"User preferences: Language=English, Tone=neutral, Format=numbered list, Expertise=general.\""}
+{"sft_source": "dolly", "sft_index": 2209, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Content filter: non-financial inquiries.\""}
+{"sft_source": "dolly", "sft_index": 4825, "l2_text": "- \"User settings: Tone=romantic, Format=descriptive, Length=medium, Content_filter=family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 6824, "l2_text": "Session config: Language=English, Tone=professional, Length=detailed, Content filter=scientific-only."}
+{"sft_source": "alpaca", "sft_index": 9741, "l2_text": "- \"Session config: Respond in English. Tone: casual. Length: brief. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 7308, "l2_text": "Preferences: Language=English, Tone=casual, Format=bullet points, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 711, "l2_text": "Configuration: Tone: instructional. Length: concise. Format: standard response. Access: educational-only."}
+{"sft_source": "dolly", "sft_index": 7762, "l2_text": "- \"Session config: Tone: factual. Length: concise. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 3103, "l2_text": "Session config: Tone: informative. Length: concise. Format: plain text. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 1216, "l2_text": "- \"User preferences: Language=English, Tone=informative, Length=concise, Content filter: accessibility-focused.\""}
+{"sft_source": "alpaca", "sft_index": 7674, "l2_text": "- \"Session config: Tone: educational. Length: detailed. Content filter: cultural sensitivity.\""}
+{"sft_source": "alpaca", "sft_index": 7634, "l2_text": "Session config: Tone: educational. Length: detailed. Content filter: verified information only."}
+{"sft_source": "alpaca", "sft_index": 1456, "l2_text": "- \"Configuration: beginner-friendly tone, English language, brief responses, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 17406, "l2_text": "- \"Settings: structured format, detailed instructions, expertise level: intermediate, content filter: professional.\""}
+{"sft_source": "dolly", "sft_index": 5251, "l2_text": "User preferences: Language=English, Tone=informative, Length=concise, Expertise=beginner."}
+{"sft_source": "alpaca", "sft_index": 13608, "l2_text": "User settings: Tone=professional, Format=numbered lists, Length=detailed, Expertise=expert."}
+{"sft_source": "alpaca", "sft_index": 5340, "l2_text": "- \"User preferences: Tone=informal, Length=concise, Format=plain text.\""}
+{"sft_source": "alpaca", "sft_index": 8545, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 1512, "l2_text": "- \"Config: Tone: neutral. Length: brief. Expertise: intermediate. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 11236, "l2_text": "- \"Session config: Tone: educational. Length: concise. Content filter: verified information.\""}
+{"sft_source": "dolly", "sft_index": 1585, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 2187, "l2_text": "- \"Settings: casual tone, English language, brief responses, educational-only content.\""}
+{"sft_source": "alpaca", "sft_index": 17331, "l2_text": "Settings: English language, friendly tone, bullet points format, intermediate level."}
+{"sft_source": "alpaca", "sft_index": 7756, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: educational-only. Access: none."}
+{"sft_source": "alpaca", "sft_index": 4866, "l2_text": "- \"Config: Tone=professional, Length=detailed, Expertise=expert, Content_filter=business-oriented.\""}
+{"sft_source": "dolly", "sft_index": 1577, "l2_text": "- \"Session config: Tone: professional. Length: brief. Access: standard.\""}
+{"sft_source": "dolly", "sft_index": 309, "l2_text": "Preferences: Language=English, Tone=informal, Format=bullet points, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 12957, "l2_text": "- \"Configuration: structured output, English language, detailed length, expert-level content.\""}
+{"sft_source": "alpaca", "sft_index": 9719, "l2_text": "- \"Configuration: engaging tone, English language, detailed responses, educational content.\""}
+{"sft_source": "dolly", "sft_index": 523, "l2_text": "Configuration: professional tone, English language, detailed responses, educational content filter."}
+{"sft_source": "dolly", "sft_index": 11480, "l2_text": "- \"Configuration: professional tone, educational content, detailed length, content filter: health-related.\""}
+{"sft_source": "alpaca", "sft_index": 8087, "l2_text": "User preferences: Language=English, Tone=casual, Format=numbered list, Expertise=beginner."}
+{"sft_source": "dolly", "sft_index": 4832, "l2_text": "Session config: Tone: neutral. Length: concise. Format: categorized list. Access: standard."}
+{"sft_source": "dolly", "sft_index": 9073, "l2_text": "- \"User settings: Tone=informative, Length=concise, Content filter=educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 17970, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 14906, "l2_text": "Configuration: educational tone, English language, detailed responses, expert-level content."}
+{"sft_source": "dolly", "sft_index": 12587, "l2_text": "Session config: Tone: clear and inclusive. Format: plain text. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 4309, "l2_text": "- \"Preferences: Tone=educational, Length=detailed, Content filter=general knowledge.\""}
+{"sft_source": "dolly", "sft_index": 1578, "l2_text": "Session config: Tone: engaging. Length: clear. Format: plain text. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 12229, "l2_text": "Configuration: casual tone, English language, numbered lists, basic expertise."}
+{"sft_source": "dolly", "sft_index": 812, "l2_text": "- \"Session config: Respond in English. Tone: factual. Length: concise. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 8959, "l2_text": "Session config: Language: English. Tone: authoritative. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2001, "l2_text": "- \"Session config: Tone: educational. Length: detailed. Format: bullet points. Expertise: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 4387, "l2_text": "Session config: Language: English, Tone: professional, Format: bullet points, Length: detailed."}
+{"sft_source": "alpaca", "sft_index": 4648, "l2_text": "- \"Preferences: Tone=informative, Length=concise, Content Filter=health-focused.\""}
+{"sft_source": "alpaca", "sft_index": 10752, "l2_text": "Session config: Language: English. Tone: casual. Length: brief. Access: free."}
+{"sft_source": "alpaca", "sft_index": 6110, "l2_text": "- \"Settings: factual tone, English language, detailed responses, content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 9190, "l2_text": "- \"Configuration: educational tone, bullet points format, intermediate length, content filter: environmental.\""}
+{"sft_source": "dolly", "sft_index": 764, "l2_text": "Session config: Tone: professional. Length: brief. Content filter: respectful. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 12065, "l2_text": "Session config: Language=English, Tone=calm, Length=descriptive, Content Filter=family-friendly."}
+{"sft_source": "alpaca", "sft_index": 15529, "l2_text": "- \"Session config: Tone: informative. Length: structured. Format: numbered list. Content filter: health-focused.\""}
+{"sft_source": "alpaca", "sft_index": 2083, "l2_text": "- \"Configuration: detailed tone, expert-level content, precise calculations, scientific context.\""}
+{"sft_source": "alpaca", "sft_index": 17610, "l2_text": "Session config: Tone: professional. Length: detailed. Expertise: beginner. Content filter: practical skills."}
+{"sft_source": "alpaca", "sft_index": 2963, "l2_text": "Session config: Language: English. Tone: professional. Length: detailed. Format: essay-style."}
+{"sft_source": "dolly", "sft_index": 12174, "l2_text": "Preferences: Tone=engaging, Expertise=general audience, Content filter=none, Length=detailed."}
+{"sft_source": "alpaca", "sft_index": 15031, "l2_text": "- \"User settings: Tone=authoritative, Format=numbered lists, Length=detailed, Content filter=educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 11227, "l2_text": "- \"Configuration: detailed responses, professional tone, expertise level: intermediate, content filter: technical.\""}
+{"sft_source": "alpaca", "sft_index": 315, "l2_text": "Session config: Tone: academic. Length: concise. Filter: scholarly sources only. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 1977, "l2_text": "- \"Config: Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 13180, "l2_text": "Settings: English language, educational content, step-by-step format, beginner level, supportive tone."}
+{"sft_source": "alpaca", "sft_index": 16093, "l2_text": "Configuration: Tone: informative, Length: detailed, Expertise: intermediate, Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 118, "l2_text": "Session config: Tone: informative. Format: bullet points. Length: concise. Expertise: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 14597, "l2_text": "- \"Session config: Tone: creative. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 10044, "l2_text": "Preferences: Tone=informative, Length=detailed, Expertise=intermediate, Content Filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 5098, "l2_text": "- \"Session config: Tone: analytical. Length: concise. Expertise: intermediate. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 17690, "l2_text": "Configuration: professional tone, detailed length, expert level, educational content filter."}
+{"sft_source": "dolly", "sft_index": 4141, "l2_text": "- \"Session config: Tone: factual. Length: concise. Format: list. Content filter: none.\""}
+{"sft_source": "alpaca", "sft_index": 9599, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: educational-only. Access: basic."}
+{"sft_source": "dolly", "sft_index": 578, "l2_text": "- \"User preferences: Language=English, Tone=informative, Length=concise.\""}
+{"sft_source": "alpaca", "sft_index": 14678, "l2_text": "User settings: Language=English, Tone=professional, Length=detailed, Expertise=intermediate, Content Filter=cultural."}
+{"sft_source": "alpaca", "sft_index": 9869, "l2_text": "- \"Config: Tone: supportive. Length: detailed. Format: numbered lists. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 4632, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Expertise: general knowledge.\""}
+{"sft_source": "dolly", "sft_index": 10100, "l2_text": "- \"Session config: English. Tone: analytical. Length: concise. Content filter: none.\""}
+{"sft_source": "alpaca", "sft_index": 950, "l2_text": "- \"User preferences: Language=English, Tone=informal, Length=brief, Content filter=general.\""}
+{"sft_source": "alpaca", "sft_index": 11711, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 4370, "l2_text": "- \"Configuration: professional tone, English language, detailed responses, intermediate expertise.\""}
+{"sft_source": "dolly", "sft_index": 10740, "l2_text": "User preferences: Language=English, Tone=professional, Length=detailed, Content_filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 1525, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 4348, "l2_text": "Session config: Tone: professional. Length: detailed. Format: plain text. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 12392, "l2_text": "- \"Session config: Language=English, Tone=formal, Length=detailed, Content Filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2930, "l2_text": "- \"Session config: Language: English. Tone: neutral. Length: brief. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 7307, "l2_text": "Configuration: educational tone, English language, detailed responses, content filter: factual accuracy."}
+{"sft_source": "dolly", "sft_index": 1468, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: academic sources only.\""}
+{"sft_source": "alpaca", "sft_index": 9696, "l2_text": "- \"Session config: Tone: romantic. Length: brief. Format: poetic.\""}
+{"sft_source": "alpaca", "sft_index": 10233, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 9416, "l2_text": "Settings: English language, casual tone, brief responses, content filter: non-academic."}
+{"sft_source": "alpaca", "sft_index": 395, "l2_text": "- \"Session config: Language: English. Tone: informative. Length: detailed.\""}
+{"sft_source": "dolly", "sft_index": 3919, "l2_text": "Session config: Tone: conversational. Length: concise. Format: engaging script. Content filter: educational."}
+{"sft_source": "dolly", "sft_index": 324, "l2_text": "Preferences: Language=English, Tone=neutral, Length=brief, Content_filter=none."}
+{"sft_source": "alpaca", "sft_index": 5946, "l2_text": "Configuration: Tone: informative, Length: concise, Content Filter: general audience."}
+{"sft_source": "dolly", "sft_index": 4742, "l2_text": "Session config: Language: English. Tone: professional. Length: detailed. Content filter: regulatory compliance."}
+{"sft_source": "alpaca", "sft_index": 13603, "l2_text": "Session config: Tone: simple and clear. Length: concise. Expertise: beginner. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 10511, "l2_text": "Settings: Language=English, Tone=professional, Length=detailed, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 16242, "l2_text": "- \"Session config: Tone: upbeat. Format: plain text. Length: brief. Expertise: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 13886, "l2_text": "Preferences: Language=English, Format=numbered lists, Tone=informal, Expertise=beginner."}
+{"sft_source": "alpaca", "sft_index": 4326, "l2_text": "Configuration: Tone: informative. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 10131, "l2_text": "- \"Settings: English language, concise responses, moderate expertise level, content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 32651, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Expertise: advanced. Access: premium.\""}
+{"sft_source": "dolly", "sft_index": 1735, "l2_text": "- \"Preferences: Tone=mysterious, Length=intriguing, Content filter=educational, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 27517, "l2_text": "- \"User settings: Tone=informative, Length=concise, Expertise=intermediate, Content filter=technical.\""}
+{"sft_source": "alpaca", "sft_index": 9831, "l2_text": "Session config: Tone: educational. Length: detailed. Content filter: none. Expertise: intermediate."}
+{"sft_source": "dolly", "sft_index": 668, "l2_text": "Session config: Tone: anxious. Length: detailed. Format: technical jargon. Content filter: high uncertainty."}
+{"sft_source": "alpaca", "sft_index": 15667, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 20071, "l2_text": "Preferences: Language=English, Format=numbered list, Tone=neutral, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 17058, "l2_text": "Session config: Tone: casual. Format: bullet points. Length: brief. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 4642, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: entertainment."}
+{"sft_source": "alpaca", "sft_index": 4456, "l2_text": "- \"User settings: Language=English, Tone=concise, Length=brief, Expertise=intermediate.\""}
+{"sft_source": "dolly", "sft_index": 5199, "l2_text": "User preferences: Tone=informative, Format=bullet points, Length=concise, Content filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 5726, "l2_text": "Configuration: casual tone, conversational style, brief responses, content filter: non-controversial."}
+{"sft_source": "alpaca", "sft_index": 2352, "l2_text": "Session config: Tone: academic. Length: detailed. Content filter: educational-only. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 9675, "l2_text": "- \"Session config: Tone: neutral. Length: brief. Format: plain text. Access: general.\""}
+{"sft_source": "alpaca", "sft_index": 4842, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Access: premium.\""}
+{"sft_source": "alpaca", "sft_index": 11858, "l2_text": "Configuration: concise tone, English language, actionable info, mobile-optimized content."}
+{"sft_source": "dolly", "sft_index": 4774, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 4174, "l2_text": "Configuration: Tone: analytical. Format: numbered list. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 19279, "l2_text": "- \"Session config: Tone: professional. Length: brief. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 4120, "l2_text": "- \"Configuration: formal tone, English language, detailed length, content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 8784, "l2_text": "Session settings: Language=English, Tone=formal, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 9821, "l2_text": "Session config: Tone: informative. Length: moderate. Content Filter: general audience. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 3180, "l2_text": "- \"Configuration: professional tone, detailed length, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 15970, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 7192, "l2_text": "- \"Config: English language, professional tone, detailed length, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 4554, "l2_text": "Configuration: English language, bullet points format, intermediate expertise level, professional tone."}
+{"sft_source": "alpaca", "sft_index": 1762, "l2_text": "Session config: Tone: neutral. Format: table. Length: concise. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 15578, "l2_text": "Session config: Tone: casual. Format: numbered list. Length: brief. Access: general audience."}
+{"sft_source": "alpaca", "sft_index": 6707, "l2_text": "Session config: Language: English. Tone: informative. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 14611, "l2_text": "Session config: Tone: educational. Length: brief. Content filter: nursing-focused. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 10272, "l2_text": "Configuration: Tone: educational. Format: numbered list. Length: detailed. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 16762, "l2_text": "Session config: Language: English. Tone: casual. Format: bullet points. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 31740, "l2_text": "- \"Configuration: professional tone, detailed length, intermediate expertise, premium access.\""}
+{"sft_source": "alpaca", "sft_index": 4961, "l2_text": "Preferences: Language=English, Tone=informal, Format=numbered list, Content filter=general knowledge."}
+{"sft_source": "alpaca", "sft_index": 13165, "l2_text": "- \"Session config: Tone: accessible. Length: concise. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 15731, "l2_text": "Session config: Tone: engaging, Format: plain text, Length: detailed, Expertise: general audience."}
+{"sft_source": "alpaca", "sft_index": 12539, "l2_text": "Session config: Tone: casual. Format: plain text. Length: brief. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 4841, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: general knowledge. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 12338, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 751, "l2_text": "User settings: Language=English, Tone=helpful, Format=plain text, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 8878, "l2_text": "Session settings: Tone: casual. Format: simple list. Length: brief. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 13445, "l2_text": "Session config: Tone: upbeat. Format: multiple choice. Length: concise. Expertise: intermediate."}
+{"sft_source": "alpaca", "sft_index": 10781, "l2_text": "- \"User settings: Tone=informal, Length=concise, Content filter=general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 16659, "l2_text": "- \"Settings: educational content, structured format, clear answers, global relevance, neutral tone.\""}
+{"sft_source": "dolly", "sft_index": 10543, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: general. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 16362, "l2_text": "- \"Configuration: professional tone, English language, detailed responses, content filter: workplace policies.\""}
+{"sft_source": "alpaca", "sft_index": 5224, "l2_text": "Session config: Tone: supportive. Length: concise. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 6572, "l2_text": "Session config: Tone: academic. Length: concise. Format: plain text. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 7837, "l2_text": "- \"Session config: Tone: engaging. Length: concise. Content: trivia. Filter: fun facts.\""}
+{"sft_source": "alpaca", "sft_index": 12543, "l2_text": "- \"Configuration: detailed tone, English language, expert-level content, educational filter.\""}
+{"sft_source": "alpaca", "sft_index": 12910, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 17839, "l2_text": "Configuration: Tone: professional, Length: detailed, Content filter: plain language."}
+{"sft_source": "alpaca", "sft_index": 4809, "l2_text": "Session config: Tone: informative. Length: brief. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 10729, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 16683, "l2_text": "Preferences: Language=English, Format=numbered lists, Tone=informative, Content filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 3308, "l2_text": "Session config: Tone: professional. Length: concise. Content filter: educational-only. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 1512, "l2_text": "Configuration: English, casual tone, brief responses, content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 12919, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Format: newspaper-style columns.\""}
+{"sft_source": "alpaca", "sft_index": 5043, "l2_text": "- \"User settings: Tone=professional, Length=detailed, Content filter=educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 12714, "l2_text": "- \"Session config: Tone: conversational. Length: brief. Format: numbered lists. Content filter: non-controversial.\""}
+{"sft_source": "alpaca", "sft_index": 6762, "l2_text": "- \"User preferences: Language=English, Tone=informal, Format=numbered lists, Content filter: general advice.\""}
+{"sft_source": "alpaca", "sft_index": 34605, "l2_text": "- \"Config: Tone: reflective. Length: brief. Format: synopsis. Content Filter: creative storytelling.\""}
+{"sft_source": "alpaca", "sft_index": 11347, "l2_text": "Preferences: Language=English, Tone=professional, Length=detailed, Content filter=technical."}
+{"sft_source": "dolly", "sft_index": 3174, "l2_text": "Configuration: professional tone, detailed length, expert-level content, medical information filter."}
+{"sft_source": "alpaca", "sft_index": 7243, "l2_text": "- \"Config: Tone: descriptive. Length: concise. Format: narrative.\""}
+{"sft_source": "dolly", "sft_index": 4808, "l2_text": "Preferences: Language=English, Tone=informative, Length=detailed, Expertise=beginner."}
+{"sft_source": "dolly", "sft_index": 2544, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: general audience."}
+{"sft_source": "dolly", "sft_index": 4189, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 3279, "l2_text": "Settings: tone=informal, format=plain text, length=brief, expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 3856, "l2_text": "User preferences: Language=English, Tone=informative, Format=numbered lists, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 14249, "l2_text": "- \"User preferences: Tone=empathetic, Length=brief, Format=bullet points, Content filter=customer service.\""}
+{"sft_source": "alpaca", "sft_index": 6349, "l2_text": "Session config: Tone: factual. Length: concise. Content filter: scientific accuracy."}
+{"sft_source": "dolly", "sft_index": 4258, "l2_text": "- \"Session config: Tone: educational. Length: concise. Content filter: accurate scientific information.\""}
+{"sft_source": "alpaca", "sft_index": 4453, "l2_text": "- \"User settings: Language=English, Tone=casual, Format=numbered lists, Length=brief.\""}
+{"sft_source": "alpaca", "sft_index": 3185, "l2_text": "- \"Session config: Tone: instructional. Length: detailed. Format: numbered lists.\""}
+{"sft_source": "alpaca", "sft_index": 17527, "l2_text": "Settings: English language, concise responses, educational content."}
+{"sft_source": "alpaca", "sft_index": 12561, "l2_text": "Configuration: tone=supportive, length=detailed, expertise=intermediate, content_filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 10725, "l2_text": "Configuration: professional tone, detailed length, educational content, access_tier=standard."}
+{"sft_source": "alpaca", "sft_index": 5967, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 13157, "l2_text": "Session config: Tone: casual. Length: brief. Format: numbered lists. Content filter: general."}
+{"sft_source": "dolly", "sft_index": 1361, "l2_text": "- \"Configuration: concise tone, English language, brief responses, expertise level intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 3162, "l2_text": "- \"Configuration: supportive tone, English language, detailed length, content filter: professional.\""}
+{"sft_source": "alpaca", "sft_index": 574, "l2_text": "Session config: Tone: professional. Length: detailed. Format: dialogue-based narrative. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 10658, "l2_text": "Session config: Tone: educational. Length: detailed. Content filter: family-friendly. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 3980, "l2_text": "Session config: Language: English. Tone: academic. Length: detailed. Access: standard. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 5180, "l2_text": "- \"User preferences: Tone=candid, Length=brief, Content filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 4725, "l2_text": "Session config: Tone: authoritative yet accessible. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 2754, "l2_text": "- \"Configuration: casual tone, English language, brief responses.\""}
+{"sft_source": "dolly", "sft_index": 6118, "l2_text": "- \"User settings: Language=English, Tone=informative, Length=concise.\""}
+{"sft_source": "alpaca", "sft_index": 13212, "l2_text": "- \"User preferences: Tone: informative. Format: numbered list. Length: concise.\""}
+{"sft_source": "alpaca", "sft_index": 17235, "l2_text": "User preferences: Language=English, Tone=professional, Length=detailed, Expertise=beginner."}
+{"sft_source": "alpaca", "sft_index": 4702, "l2_text": "- \"User settings: Tone=professional, Length=detailed, Expertise=intermediate, Access=premium.\""}
+{"sft_source": "alpaca", "sft_index": 12517, "l2_text": "Configuration: Tone: descriptive, Format: narrative, Length: moderate, Content filter: creative writing."}
+{"sft_source": "dolly", "sft_index": 9578, "l2_text": "Preferences: Tone=encouraging, Format=comma-separated, Content Filter=family-friendly, Expertise=elementary."}
+{"sft_source": "alpaca", "sft_index": 13329, "l2_text": "- \"Configuration: professional tone, detailed length, financial expertise, educational content filter.\""}
+{"sft_source": "dolly", "sft_index": 9051, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: scientific."}
+{"sft_source": "dolly", "sft_index": 7840, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 8443, "l2_text": "Session config: Tone: informative. Length: detailed. Format: numbered list. Content filter: educational."}
+{"sft_source": "alpaca", "sft_index": 5323, "l2_text": "- \"User settings: Tone=informative, Format=bullet points, Expertise=expert, Content filter=statistics-focused.\""}
+{"sft_source": "dolly", "sft_index": 4032, "l2_text": "Session config: Language: English, Tone: educational, Length: detailed, Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 625, "l2_text": "Configuration: Language=English, Tone=friendly, Format=bullet points, Expertise=beginner."}
+{"sft_source": "dolly", "sft_index": 1238, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2220, "l2_text": "- \"Session config: Respond in English. Tone: informative. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 15179, "l2_text": "Configuration: tone=clear, format=plain text, length=concise, expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 2891, "l2_text": "Configuration: casual tone, English language, brief responses, content_filter: general."}
+{"sft_source": "dolly", "sft_index": 11189, "l2_text": "Configuration: Tone: educational. Length: concise. Content filter: expert-level. Format: clear narrative structure."}
+{"sft_source": "alpaca", "sft_index": 10941, "l2_text": "- \"Configuration: professional tone, detailed length, financial format, expert level.\""}
+{"sft_source": "alpaca", "sft_index": 8652, "l2_text": "- \"Session config: Tone: neutral. Length: brief. Expertise: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 3285, "l2_text": "- \"Config: detailed, educational tone, expert-level content, access: premium.\""}
+{"sft_source": "dolly", "sft_index": 6372, "l2_text": "User preferences: Language=English, Tone=informative, Format=bullet points, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 17544, "l2_text": "Configuration: Tone: academic. Format: plain text. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 5757, "l2_text": "Session config: Tone: professional. Length: concise. Content filter: family-friendly. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 26775, "l2_text": "- \"Session config: Language: English. Tone: informative. Length: brief.\""}
+{"sft_source": "dolly", "sft_index": 2210, "l2_text": "- \"Session config: Tone: informative. Length: brief. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 5512, "l2_text": "- \"User preferences: Tone=informative, Format=bullet points, Length=concise.\""}
+{"sft_source": "alpaca", "sft_index": 8662, "l2_text": "- \"Preferences: Language=English, Tone=casual, Format=bullet points, Length=brief.\""}
+{"sft_source": "alpaca", "sft_index": 9739, "l2_text": "- \"User settings: Tone=informative, Length=detailed, Expertise=intermediate, Content filter=professional.\""}
+{"sft_source": "alpaca", "sft_index": 13671, "l2_text": "- \"Configuration: formal tone, detailed length, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 14623, "l2_text": "Configuration: Tone: educational. Length: concise. Expertise: beginner. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 6190, "l2_text": "- \"Config: Casual tone, English language, brief response.\""}
+{"sft_source": "alpaca", "sft_index": 3966, "l2_text": "Session config: Tone: creative. Length: moderate. Expertise: general audience. Content filter: fantasy elements allowed."}
+{"sft_source": "dolly", "sft_index": 1858, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: general audience. Access: public."}
+{"sft_source": "alpaca", "sft_index": 11599, "l2_text": "Preferences: Language=English, Format=numbered list, Tone=informal, Expertise=beginner."}
+{"sft_source": "dolly", "sft_index": 4120, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: family-friendly. Format: poem."}
+{"sft_source": "dolly", "sft_index": 1710, "l2_text": "- \"Config: English language, detailed content, expert level, professional tone.\""}
+{"sft_source": "alpaca", "sft_index": 4843, "l2_text": "Session config: Tone: detailed. Format: numbered lists. Length: comprehensive. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 7819, "l2_text": "- \"User preferences: Language=English, Tone=informal, Format=numbered lists, Length=brief.\""}
+{"sft_source": "alpaca", "sft_index": 4122, "l2_text": "Session config: Tone: educational. Length: detailed. Format: structured comparison. Content filter: general knowledge."}
+{"sft_source": "dolly", "sft_index": 6458, "l2_text": "- \"User preferences: Language=English, Tone=informative, Length=detailed, Content filter=general.\""}
+{"sft_source": "alpaca", "sft_index": 12147, "l2_text": "Configuration: English language, casual tone, brief responses, content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 17206, "l2_text": "- \"Configuration: conversational tone, English language, detailed responses, educational content.\""}
+{"sft_source": "alpaca", "sft_index": 14363, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 15449, "l2_text": "User preferences: Language=English, Tone=informative, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 5097, "l2_text": "Configuration: Tone: clear, Format: direct answer, Length: concise, Expertise: general knowledge."}
+{"sft_source": "dolly", "sft_index": 2271, "l2_text": "- \"Session config: Language: English. Tone: informative. Length: concise. Content filter: general.\""}
+{"sft_source": "dolly", "sft_index": 4899, "l2_text": "Settings: English language, casual tone, brief responses, content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 3282, "l2_text": "- \"User settings: Tone=informative, Length=detailed, Format=plain text, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 11663, "l2_text": "- \"Session config: Tone: educational. Format: multiple choice. Length: concise. Expertise: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 4130, "l2_text": "Configuration: Tone: professional, Format: structured, Length: detailed, Expertise: expert."}
+{"sft_source": "dolly", "sft_index": 11411, "l2_text": "User settings: Tone: neutral. Content filter: family-friendly. Length: concise. Expertise: intermediate."}
+{"sft_source": "alpaca", "sft_index": 11997, "l2_text": "\"User settings: Language=English, Tone=educational, Length=detailed, Expertise=intermediate, Content filter=none.\""}
+{"sft_source": "dolly", "sft_index": 4562, "l2_text": "Configuration: clear narrative structure, educational content, expert verification, engaging tone."}
+{"sft_source": "dolly", "sft_index": 2803, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 11015, "l2_text": "Configuration: casual tone, English language, brief responses, content_filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 2542, "l2_text": "Configuration: tone=academic, length=detailed, expertise=undergraduate, content_filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 4575, "l2_text": "- \"User config: Tone: engaging. Format: narrative. Length: moderate. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 12687, "l2_text": "Session config: Tone: modern. Length: concise. Content filter: creative writing."}
+{"sft_source": "dolly", "sft_index": 9542, "l2_text": "Session config: Tone: authoritative yet accessible. Length: detailed audio segments. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 3645, "l2_text": "- \"Session config: Tone: academic. Format: detailed summary. Content filter: sports-related.\""}
+{"sft_source": "dolly", "sft_index": 8877, "l2_text": "Session config: Tone: formal. Length: concise. Expertise: educational. Content filter: factual accuracy."}
+{"sft_source": "alpaca", "sft_index": 14622, "l2_text": "- \"Config: Educational tone, detailed length, structured format, expert knowledge, content filter: reliable sources.\""}
+{"sft_source": "dolly", "sft_index": 1620, "l2_text": "Session config: Language: English. Tone: informative. Length: concise. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2177, "l2_text": "Configuration: Tone: informative, Length: concise, Expertise: general audience, Content filter: factual."}
+{"sft_source": "alpaca", "sft_index": 469, "l2_text": "- \"Session config: Educational tone, English language, detailed length, content filter: medical.\""}
+{"sft_source": "alpaca", "sft_index": 5017, "l2_text": "User settings: Tone=casual, Format=numbered list, Length=brief, Content filter=wellness-focused."}
+{"sft_source": "alpaca", "sft_index": 1070, "l2_text": "Session config: Language: English. Tone: educational. Length: concise. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 9899, "l2_text": "Session config: Language: English. Tone: factual. Length: concise. Content filter: academic-only."}
+{"sft_source": "alpaca", "sft_index": 17452, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 14441, "l2_text": "User settings: Tone: academic. Length: concise. Format: plain text. Access: educational content."}
+{"sft_source": "alpaca", "sft_index": 5976, "l2_text": "- \"Session config: Tone: factual. Length: concise. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 3437, "l2_text": "- \"Configuration: formal tone, English language, detailed length, content filter: narrative-focused.\""}
+{"sft_source": "dolly", "sft_index": 2978, "l2_text": "User settings: Language=English, Tone=engaging, Length=brief, Content filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 3414, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 10167, "l2_text": "User preferences: Language=English, Tone=informal, Format=numbered lists, Length=brief."}
+{"sft_source": "dolly", "sft_index": 834, "l2_text": "User settings: Tone: friendly. Format: simple lists. Length: concise. Expertise: elementary level."}
+{"sft_source": "dolly", "sft_index": 10564, "l2_text": "Preferences: Language=English, Tone=formal, Length=concise, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 3704, "l2_text": "Preferences: Tone=informal, Format=numbered lists, Length=concise, Content filter=general."}
+{"sft_source": "alpaca", "sft_index": 5744, "l2_text": "Preferences: Tone=friendly, Length=brief, Format=numbered lists, Content_filter=family-friendly."}
+{"sft_source": "alpaca", "sft_index": 11736, "l2_text": "Settings: concise output, English language, bullet points, educational content filter."}
+{"sft_source": "dolly", "sft_index": 3630, "l2_text": "Session config: Tone: academic. Length: concise. Content filter: scholarly. Access: premium."}
+{"sft_source": "dolly", "sft_index": 6112, "l2_text": "User preferences: Language=English, Tone=informative, Length=brief, Content filter=general knowledge."}
+{"sft_source": "dolly", "sft_index": 2695, "l2_text": "Preferences: Tone=academic, Length=detailed, Content filter=peer-reviewed sources only."}
+{"sft_source": "alpaca", "sft_index": 41602, "l2_text": "- \"Settings: friendly tone, elementary level, brief responses, content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 9129, "l2_text": "- \"Configuration: professional tone, detailed length, premium access, medical content filter.\""}
+{"sft_source": "alpaca", "sft_index": 8857, "l2_text": "Settings: English language, informative tone, detailed responses, educational content filter."}
+{"sft_source": "dolly", "sft_index": 6525, "l2_text": "Session config: Tone: formal. Length: detailed. Content filter: fact-checked. Access: standard."}
+{"sft_source": "dolly", "sft_index": 4250, "l2_text": "Configuration: casual tone, English language, brief responses, content_filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 12996, "l2_text": "Settings: English language, professional tone, detailed responses, cultural sensitivity filter."}
+{"sft_source": "alpaca", "sft_index": 17467, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 707, "l2_text": "Session config: Language: English. Tone: neutral. Length: comprehensive. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 513, "l2_text": "Session config: Language: English. Tone: neutral. Length: compact. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 11087, "l2_text": "- \"Configuration: professional tone, detailed length, expert-level content, access: premium.\""}
+{"sft_source": "alpaca", "sft_index": 12093, "l2_text": "- \"User preferences: Tone=casual, Format=numbered lists, Length=brief, Expertise=intermediate.\""}
+{"sft_source": "dolly", "sft_index": 438, "l2_text": "Configuration: Tone: professional, Format: key points, Length: concise, Content filter: workplace-appropriate."}
+{"sft_source": "alpaca", "sft_index": 38001, "l2_text": "Settings: beginner-friendly tone, output as numbered list, detailed explanations, content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 12150, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 16559, "l2_text": "- \"User preferences: Tone=informative, Format=numbered lists, Length=detailed, Expertise=intermediate.\""}
+{"sft_source": "dolly", "sft_index": 2228, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: family-friendly. Access: general audience."}
+{"sft_source": "alpaca", "sft_index": 9308, "l2_text": "- \"Configuration: casual tone, English language, brief responses.\""}
+{"sft_source": "alpaca", "sft_index": 3666, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: general interest.\""}
+{"sft_source": "alpaca", "sft_index": 5919, "l2_text": "Configuration: informative tone, detailed length, premium access, content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2827, "l2_text": "- \"Session config: Tone: authoritative. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 10088, "l2_text": "Session config: Language: English. Tone: educational. Length: concise. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 4847, "l2_text": "- \"Config: Narrative style, English, engaging tone, moderate length, beginner-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 13952, "l2_text": "- \"Config: Tone=informative, Length=detailed, Expertise=intermediate, Filter=scientific.\""}
+{"sft_source": "alpaca", "sft_index": 11279, "l2_text": "Preferences: Language=English, Format=bullet points, Tone=informative, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 751, "l2_text": "- \"Session config: Language: English. Tone: poetic. Length: moderate.\""}
+{"sft_source": "alpaca", "sft_index": 7208, "l2_text": "Configuration: professional tone, detailed length, expert level, academic content policy."}
+{"sft_source": "dolly", "sft_index": 4671, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 2833, "l2_text": "- \"Configuration: accessible language, 6th-8th grade reading level, educational content, patient-focused.\""}
+{"sft_source": "dolly", "sft_index": 2050, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 13506, "l2_text": "Preferences: Language=English, Tone=casual, Format=numbered list, Content filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 2231, "l2_text": "- \"Configuration: educational tone, English language, detailed responses, expertise level: high school.\""}
+{"sft_source": "alpaca", "sft_index": 2888, "l2_text": "- \"Configuration: tone=atmospheric, format=title suggestion, length=brief, expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 4086, "l2_text": "- \"Session config: Tone: friendly. Length: brief. Format: conversational. Content filter: non-controversial.\""}
+{"sft_source": "alpaca", "sft_index": 9868, "l2_text": "- Config: Casual tone, brief responses, English language, beginner level."}
+{"sft_source": "alpaca", "sft_index": 6071, "l2_text": "- \"Session config: Tone: narrative. Length: detailed. Content filter: historical accuracy.\""}
+{"sft_source": "dolly", "sft_index": 6606, "l2_text": "Preferences: Language=English, Tone=academic, Content Filter=peer-reviewed sources only."}
+{"sft_source": "dolly", "sft_index": 7652, "l2_text": "Session config: Language: English. Tone: informative. Length: concise. Content filter: historical accuracy."}
+{"sft_source": "alpaca", "sft_index": 10321, "l2_text": "User preferences: Language=English, Tone=informal, Format=numbered lists, Content filter=general."}
+{"sft_source": "dolly", "sft_index": 11969, "l2_text": "Configuration: Tone=candid, Format=plain text, Length=brief, Expertise=general knowledge."}
+{"sft_source": "alpaca", "sft_index": 3372, "l2_text": "User settings: Tone: reflective. Format: summary. Length: concise. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 13233, "l2_text": "Preferences: Language=English, Tone=informative, Format=numbered lists."}
+{"sft_source": "alpaca", "sft_index": 12479, "l2_text": "- \"Config: Tone: professional. Length: detailed. Content filter: educational-only. Access: premium.\""}
+{"sft_source": "dolly", "sft_index": 1227, "l2_text": "- \"Session config: Language: English. Tone: concise. Length: brief. Expertise: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 4158, "l2_text": "Session config: Tone: educational. Length: concise. Content filter: general audience."}
+{"sft_source": "dolly", "sft_index": 307, "l2_text": "User settings: Language: English. Tone: neutral. Format: list. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 14385, "l2_text": "- \"Session config: Tone: informative. Length: concise. Expertise: intermediate. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 13501, "l2_text": "Session config: Tone: educational, Length: detailed, Content filter: inclusive, Format: numbered list."}
+{"sft_source": "alpaca", "sft_index": 12290, "l2_text": "Preferences: Language=English, Tone=informative, Format=numbered lists, Length=detailed."}
+{"sft_source": "alpaca", "sft_index": 15113, "l2_text": "- \"Session config: Tone: gentle. Length: brief. Content filter: emotionally safe.\""}
+{"sft_source": "alpaca", "sft_index": 11438, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 1119, "l2_text": "- \"User settings: Tone: factual, Format: plain text, Length: concise, Expertise: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 1570, "l2_text": "Session config: Tone: direct. Length: concise. Access: standard. Content filter: none."}
+{"sft_source": "alpaca", "sft_index": 7447, "l2_text": "Configuration: Tone: informative, Length: concise, Content filter: respectful, Expertise: general audience."}
+{"sft_source": "dolly", "sft_index": 2406, "l2_text": "Session config: Language: English. Tone: neutral. Length: concise. Expertise: basic."}
+{"sft_source": "alpaca", "sft_index": 10133, "l2_text": "- \"Configuration: professional tone, English language, detailed responses, expertise level: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 3481, "l2_text": "- \"User preferences: Language=English, Tone=casual, Format=numbered lists, Content filter=professional.\""}
+{"sft_source": "alpaca", "sft_index": 15980, "l2_text": "- \"Session config: Language: English. Tone: technical. Length: concise. Expertise: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 893, "l2_text": "Settings: English language, informative tone, detailed responses, general knowledge content."}
+{"sft_source": "alpaca", "sft_index": 24449, "l2_text": "- \"Configuration: educational tone, detailed length, expertise level intermediate.\""}
+{"sft_source": "dolly", "sft_index": 3646, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief.\""}
+{"sft_source": "alpaca", "sft_index": 6644, "l2_text": "Session config: Tone: analytical. Length: concise. Content filter: historical accuracy. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 12691, "l2_text": "- \"Session config: Tone: neutral. Length: detailed. Filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 10448, "l2_text": "- \"Config: detailed explanations, English, educational content, expert-level, step-by-step solutions.\""}
+{"sft_source": "dolly", "sft_index": 2821, "l2_text": "- \"User preferences: Tone=caring, Format=paragraphs, Length=concise, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 7733, "l2_text": "Preferences: Language=English, Tone=concise, Format=poetry, Length=short."}
+{"sft_source": "alpaca", "sft_index": 7250, "l2_text": "Configuration: Tone: informative, Length: concise, Content filter: general audience, Expertise: general knowledge."}
+{"sft_source": "dolly", "sft_index": 4619, "l2_text": "- \"Session config: Tone: academic. Length: detailed. Content filter: peer-reviewed sources only.\""}
+{"sft_source": "alpaca", "sft_index": 28144, "l2_text": "Preferences: Language=English, Tone=concise, Length=brief, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 9812, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Format: plain text.\""}
+{"sft_source": "alpaca", "sft_index": 17930, "l2_text": "- \"Configuration: professional tone, detailed length, financial content, expert-level guidance.\""}
+{"sft_source": "alpaca", "sft_index": 5577, "l2_text": "- \"Config: playful tone, English, detailed responses, expertise level: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 4737, "l2_text": "- \"Session config: Tone: atmospheric. Length: detailed. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 3616, "l2_text": "Session config: Tone: professional. Length: detailed. Expertise: intermediate. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 13644, "l2_text": "- \"Preferences: Tone=candid, Length=brief, Content_filter=none.\""}
+{"sft_source": "dolly", "sft_index": 35, "l2_text": "Session config: Tone: mysterious. Format: interconnected clues. Length: engaging. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 6291, "l2_text": "- \"Session config: Tone: educational. Length: detailed. Expertise: intermediate. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 7022, "l2_text": "- \"Session config: Tone: professional. Format: column-style. Length: detailed. Content filter: observational humor.\""}
+{"sft_source": "alpaca", "sft_index": 3116, "l2_text": "Session config: Tone: professional. Length: brief. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 4964, "l2_text": "Session config: Tone: friendly. Length: brief. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 60, "l2_text": "- \"User preferences: Tone=educational, Length=concise, Content filter=family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 10209, "l2_text": "Configuration: Language=English, Tone=professional, Length=detailed, Content_filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 3291, "l2_text": "- \"Session settings: Tone: factual. Length: brief. Expertise: intermediate. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 9881, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 16987, "l2_text": "- \"Config: Tone: casual. Length: brief. Format: analogy. Expertise: general.\""}
+{"sft_source": "alpaca", "sft_index": 2397, "l2_text": "User preferences: Language=English, Tone=educational, Format=numbered lists, Content filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 3771, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 4009, "l2_text": "Session config: Tone: straightforward. Length: brief. Content filter: general audience. Access: free."}
+{"sft_source": "alpaca", "sft_index": 83, "l2_text": "Session config: Tone: casual. Length: brief. Format: numbered lists. Content filter: general knowledge."}
+{"sft_source": "dolly", "sft_index": 656, "l2_text": "- \"Config: Casual tone, simple vocabulary, brief responses, educational content for kids.\""}
+{"sft_source": "dolly", "sft_index": 3495, "l2_text": "- \"Session config: Language: English. Tone: technical. Length: concise. Content filter: educational.\""}
+{"sft_source": "dolly", "sft_index": 10385, "l2_text": "- \"Configuration: casual tone, English language, concise responses, focus on historical context.\""}
+{"sft_source": "alpaca", "sft_index": 7319, "l2_text": "- \"Config: English language, professional tone, detailed length, content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 2072, "l2_text": "Session config: Tone: professional. Length: concise. Content filter: practical examples. Access: educational-only."}
+{"sft_source": "alpaca", "sft_index": 4684, "l2_text": "Configuration: tone=mysterious, length=concise, content_filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 12178, "l2_text": "User preferences: Language=English, Tone=professional, Format=bullet points, Content filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 17311, "l2_text": "- \"Configuration: enthusiastic tone, simple language, brief responses, content filter: child-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 13046, "l2_text": "- \"Configuration: accessible tone, English language, brief responses, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 1447, "l2_text": "- \"Session config: Language: English. Tone: romantic. Length: narrative. Expertise: historical accuracy.\""}
+{"sft_source": "alpaca", "sft_index": 36847, "l2_text": "- \"Configuration: professional tone, detailed length, expert level, content filter: factual.\""}
+{"sft_source": "dolly", "sft_index": 807, "l2_text": "Preferences: Language=English, Tone=objective, Format=bullet points, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 4000, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: workplace-friendly. Access: educational-only."}
+{"sft_source": "dolly", "sft_index": 956, "l2_text": "- \"User preferences: Language=English, Tone=concise, Format=plain text.\""}
+{"sft_source": "dolly", "sft_index": 3439, "l2_text": "Config: Tone: engaging, Format: bullet points, Length: concise, Expertise: general audience."}
+{"sft_source": "alpaca", "sft_index": 2781, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: general health.\""}
+{"sft_source": "alpaca", "sft_index": 3064, "l2_text": "- \"User settings: Language=English, Tone=informative, Length=detailed, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 2810, "l2_text": "- \"Session config: Tone: casual. Length: brief. Expertise: intermediate. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 6517, "l2_text": "Session config: Tone: educational. Length: detailed. Format: structured with headers. Content filter: non-medical."}
+{"sft_source": "dolly", "sft_index": 2526, "l2_text": "Preferences: Language=English, Tone=casual, Length=brief, Content Filter=family-friendly."}
+{"sft_source": "alpaca", "sft_index": 8194, "l2_text": "- \"Configuration: casual tone, English language, brief responses, content_filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 12214, "l2_text": "Preferences: Language=English, Format=numbered list, Expertise=intermediate, Access=premium."}
+{"sft_source": "alpaca", "sft_index": 17217, "l2_text": "- \"Configuration: educational tone, age-appropriate language, detailed length, content filter: child-friendly.\""}
+{"sft_source": "dolly", "sft_index": 360, "l2_text": "Configuration: casual tone, English language, brief responses, content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 11552, "l2_text": "Configuration: tone=accessible, format=brief, length=concise, expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 2474, "l2_text": "Session config: Tone: educational. Length: detailed. Content filter: family-friendly. Expertise: intermediate."}
+{"sft_source": "alpaca", "sft_index": 17636, "l2_text": "Session config: Tone: authoritative yet accessible. Length: detailed (300-450 words). Content filter: general audience."}
+{"sft_source": "dolly", "sft_index": 4981, "l2_text": "Session config: Tone: informative. Length: brief. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 13064, "l2_text": "Session config: Language: English. Tone: informative. Length: detailed. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 4482, "l2_text": "Session config: Tone: academic. Length: concise. Expertise: advanced. Content filter: educational."}
+{"sft_source": "dolly", "sft_index": 1409, "l2_text": "Configuration: Tone: mysterious. Format: interconnected clues. Length: engaging. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 12213, "l2_text": "- \"User config: Language=English, Tone=informative, Format=paragraphs.\""}
+{"sft_source": "dolly", "sft_index": 9675, "l2_text": "- \"Configuration: plain language, detailed length, educational content, medium expertise level.\""}
+{"sft_source": "alpaca", "sft_index": 405, "l2_text": "Session config: Tone: professional. Length: detailed. Format: bullet points. Access: premium."}
+{"sft_source": "dolly", "sft_index": 304, "l2_text": "Session config: Language=English, Tone=neutral, Length=brief."}
+{"sft_source": "dolly", "sft_index": 7096, "l2_text": "Session config: Language: English, Tone: professional, Length: detailed, Content Filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 4718, "l2_text": "Settings: clear language, inclusive tone, educational content, beginner level."}
+{"sft_source": "alpaca", "sft_index": 16253, "l2_text": "- \"Configuration: factual tone, English, detailed responses, content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 2607, "l2_text": "- \"Config: casual tone, English, brief responses, content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 11704, "l2_text": "Session config: Tone: informative. Length: detailed. Format: numbered lists. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 14243, "l2_text": "- \"Configuration: professional tone, detailed length, educational content, intermediate expertise.\""}
+{"sft_source": "alpaca", "sft_index": 11455, "l2_text": "Session config: Tone: professional. Length: brief. Content filter: PG-13. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 16526, "l2_text": "User preferences: Language=English, Tone=upbeat, Length=brief, Content filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 12500, "l2_text": "- \"Session config: Language: English. Tone: factual. Length: concise. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 33317, "l2_text": "- \"Session config: English language, professional tone, concise format, expert-level content filter.\""}
+{"sft_source": "alpaca", "sft_index": 12033, "l2_text": "- \"Configuration: persuasive tone, detailed length, educational content, access: general.\""}
+{"sft_source": "alpaca", "sft_index": 7737, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2745, "l2_text": "Configuration: Tone: casual. Format: plain text. Length: brief. Content filter: general knowledge only."}
+{"sft_source": "alpaca", "sft_index": 10726, "l2_text": "- \"User settings: Language=English, Tone=humorous, Format=numbered lists, Expertise=casual.\""}
+{"sft_source": "dolly", "sft_index": 5137, "l2_text": "Session config: Tone: educational, Length: concise, Content filter: inclusive, Expertise: beginner."}
+{"sft_source": "alpaca", "sft_index": 16674, "l2_text": "- \"Config: tone=atmospheric, format=poem, length=medium, expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 502, "l2_text": "Preferences: Language=English, Tone=educational, Length=detailed."}
+{"sft_source": "dolly", "sft_index": 3869, "l2_text": "- \"Session config: Language: English. Tone: analytical. Length: detailed.\""}
+{"sft_source": "dolly", "sft_index": 4471, "l2_text": "- \"Session config: Respond in English. Tone: analytical. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 8575, "l2_text": "- \"Config: professional tone, English, detailed responses, educational content filter.\""}
+{"sft_source": "dolly", "sft_index": 1715, "l2_text": "Session config: Tone: casual. Format: comma-separated list. Length: brief. Content filter: general."}
+{"sft_source": "dolly", "sft_index": 223, "l2_text": "- \"User preferences: Language=English, Tone=informal, Format=paragraph, Content Filter=general.\""}
+{"sft_source": "dolly", "sft_index": 1855, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: general knowledge. Access: standard."}
+{"sft_source": "dolly", "sft_index": 2138, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 10058, "l2_text": "- \"User settings: Tone: informative, Length: detailed, Expertise: intermediate, Format: numbered lists.\""}
+{"sft_source": "dolly", "sft_index": 5851, "l2_text": "- \"Session config: Tone: factual. Length: concise. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 11631, "l2_text": "Session config: Language: English. Tone: factual. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 6325, "l2_text": "Configuration: Tone: professional, Length: detailed, Content filter: respectful, Access: premium."}
+{"sft_source": "alpaca", "sft_index": 17395, "l2_text": "- \"Config: Tone=upbeat, Length=brief, Content filter=educational-only, Expertise=beginner.\""}
+{"sft_source": "alpaca", "sft_index": 4313, "l2_text": "Configuration: casual tone, English language, brief responses, content_filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 9340, "l2_text": "Session config: Tone: professional. Length: detailed. Access: standard. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2278, "l2_text": "- \"Session config: Language: English. Tone: academic. Length: detailed. Content filter: peer-reviewed sources only.\""}
+{"sft_source": "dolly", "sft_index": 11866, "l2_text": "User preferences: Tone=casual, Format=bullet points, Length=brief, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 13831, "l2_text": "- \"Session config: Tone: educational. Length: detailed. Content filter: beginner-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 12041, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 6916, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Format: comparative analysis.\""}
+{"sft_source": "dolly", "sft_index": 6668, "l2_text": "Session config: Tone: factual. Length: concise. Content filter: regulatory compliance focus."}
+{"sft_source": "alpaca", "sft_index": 41183, "l2_text": "- \"Preferences: Language=English, Tone=informative, Length=detailed.\""}
+{"sft_source": "alpaca", "sft_index": 1316, "l2_text": "- \"Settings: professional tone, English language, detailed output, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 11510, "l2_text": "- \"User preferences: Tone=informative, Length=detailed, Expertise=intermediate, Format=plain text.\""}
+{"sft_source": "alpaca", "sft_index": 2551, "l2_text": "Preferences: Language=English, Tone=professional, Format=bullet points, Length=detailed."}
+{"sft_source": "alpaca", "sft_index": 5128, "l2_text": "Configuration: Tone: educational. Format: numbered list. Length: concise. Content filter: general knowledge."}
+{"sft_source": "dolly", "sft_index": 6361, "l2_text": "- \"Session config: Language: English, Tone: concise, Format: comma-separated list.\""}
+{"sft_source": "alpaca", "sft_index": 6725, "l2_text": "Preferences: Language=English, Tone=informal, Format=numbered lists, Content filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 4528, "l2_text": "Configuration: factual tone, English language, detailed responses, expertise level intermediate."}
+{"sft_source": "dolly", "sft_index": 11345, "l2_text": "Configuration: Language=English, Tone=informative, Format=bullet points, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 14082, "l2_text": "- \"Session config: English language. Tone: informative. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 15041, "l2_text": "Settings: English language, friendly tone, detailed length, educational content filter."}
+{"sft_source": "alpaca", "sft_index": 7917, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational."}
+{"sft_source": "alpaca", "sft_index": 16692, "l2_text": "Session config: Tone: casual. Format: numbered lists. Length: brief. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 14317, "l2_text": "- \"User preferences: Language=English, Tone=friendly, Format=numbered lists.\""}
+{"sft_source": "alpaca", "sft_index": 11463, "l2_text": "Session config: Tone: engaging. Format: plain text. Length: brief. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 3055, "l2_text": "Session config: Tone: informative. Length: concise. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 14428, "l2_text": "- \"Settings: casual tone, English language, brief responses, content_filter: creative.\""}
+{"sft_source": "dolly", "sft_index": 533, "l2_text": "Session config: Tone: helpful. Length: brief. Content filter: educational-only. Access: standard."}
+{"sft_source": "dolly", "sft_index": 198, "l2_text": "- \"Config: Tone: child-friendly. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 4570, "l2_text": "Configuration: Tone: engaging, Format: narrative, Length: moderate, Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 28506, "l2_text": "User settings: Language=English, Tone=engaging, Length=brief, Content_filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 5113, "l2_text": "Session config: Language: English. Tone: casual. Length: brief. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 4035, "l2_text": "- \"Configuration: educational tone, detailed length, expert level, content filter: verified sources only.\""}
+{"sft_source": "alpaca", "sft_index": 11453, "l2_text": "Session config: Tone: professional. Length: detailed. Access: premium. Content filter: user privacy focus."}
+{"sft_source": "alpaca", "sft_index": 15396, "l2_text": "Configuration: Language: English, Tone: educational, Length: concise, Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 4464, "l2_text": "Session config: Language: English. Tone: professional. Length: detailed. Expertise: intermediate."}
+{"sft_source": "alpaca", "sft_index": 2617, "l2_text": "- \"Session config: Tone: neutral. Length: detailed. Content: informal. Expertise: general audience.\""}
+{"sft_source": "dolly", "sft_index": 11943, "l2_text": "- \"Config: Tone: technical. Length: concise. Expertise: intermediate. Content filter: educational.\""}
+{"sft_source": "dolly", "sft_index": 1872, "l2_text": "- \"Config: Tone=informative, Length=concise, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 11854, "l2_text": "- \"User settings: Tone: engaging. Format: script. Length: concise. Content filter: commercial.\""}
+{"sft_source": "alpaca", "sft_index": 16115, "l2_text": "- \"Configuration: friendly tone, English language, detailed responses, family-friendly content.\""}
+{"sft_source": "alpaca", "sft_index": 6881, "l2_text": "User settings: Tone: educational, Format: plain text, Content filter: general knowledge."}
+{"sft_source": "dolly", "sft_index": 8679, "l2_text": "Session config: Tone: neutral. Length: brief. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 10197, "l2_text": "Preferences: Tone=casual, Format=bullet points, Content filter=general knowledge."}
+{"sft_source": "dolly", "sft_index": 8686, "l2_text": "Preferences: Language=English, Tone=concise, Format=bullet points, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 43811, "l2_text": "- \"Configuration: formal tone, legal document format, detailed length, expert level.\""}
+{"sft_source": "dolly", "sft_index": 3265, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 9903, "l2_text": "Preferences: Language=English, Tone=informal, Format=numbered lists, Content filter=general."}
+{"sft_source": "dolly", "sft_index": 1621, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 1433, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Content filter: sports-related.\""}
+{"sft_source": "alpaca", "sft_index": 9659, "l2_text": "- \"Session config: Tone: descriptive. Length: detailed. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 8074, "l2_text": "- \"Configuration: analytical tone, English language, detailed explanations.\""}
+{"sft_source": "dolly", "sft_index": 5612, "l2_text": "- \"Preferences: Tone=informative, Length=detailed, Content_filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2831, "l2_text": "- \"Session config: Language: English. Tone: professional. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 1924, "l2_text": "Preferences: Tone=neutral, Format=numbered list, Length=brief, Expertise=general audience."}
+{"sft_source": "alpaca", "sft_index": 14190, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: business-related.\""}
+{"sft_source": "dolly", "sft_index": 2813, "l2_text": "Configuration: Tone: informative. Format: plain text. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 13244, "l2_text": "- \"Configuration: detailed tone, English language, step-by-step format, educational content.\""}
+{"sft_source": "alpaca", "sft_index": 16686, "l2_text": "Session config: Tone: whimsical. Length: brief. Format: narrative. Access: standard."}
+{"sft_source": "dolly", "sft_index": 8996, "l2_text": "Configuration: Tone: simple, Format: plain text, Length: brief, Expertise: beginner."}
+{"sft_source": "dolly", "sft_index": 4438, "l2_text": "- \"Session config: Tone: factual. Length: concise. Expertise: general knowledge. Content filter: consumer protection.\""}
+{"sft_source": "alpaca", "sft_index": 11687, "l2_text": "Session config: Language=English, Tone=casual, Length=brief, Content filter=none."}
+{"sft_source": "alpaca", "sft_index": 6693, "l2_text": "User settings: Tone=casual, Format=questions, Length=brief, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 3123, "l2_text": "Session config: Tone: motivational. Format: tweet. Length: concise. Content filter: positive messaging."}
+{"sft_source": "dolly", "sft_index": 553, "l2_text": "- \"Configuration: analytical tone, English language, detailed explanations, educational content filter.\""}
+{"sft_source": "dolly", "sft_index": 2935, "l2_text": "- \"Configuration: analytical tone, English language, detailed responses, educational content filter.\""}
+{"sft_source": "dolly", "sft_index": 2740, "l2_text": "Session config: Tone: neutral. Length: concise. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 9349, "l2_text": "Session config: Tone: professional. Length: detailed. Format: numbered lists. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2932, "l2_text": "User preferences: Language: English, Tone: engaging, Format: numbered lists, Length: concise."}
+{"sft_source": "alpaca", "sft_index": 14895, "l2_text": "- \"Configuration: professional tone, detailed length, educational content filter, expert-level recommendations.\""}
+{"sft_source": "dolly", "sft_index": 3339, "l2_text": "- \"Session config: Tone: accessible. Length: concise. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 1085, "l2_text": "User settings: Tone: beginner-friendly. Length: detailed. Content filter: educational-only. Format: plain text."}
+{"sft_source": "dolly", "sft_index": 9747, "l2_text": "Session config: Language: English. Tone: factual. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 1051, "l2_text": "- \"Configuration: casual tone, English language, brief responses, beginner level.\""}
+{"sft_source": "dolly", "sft_index": 1789, "l2_text": "- \"Configuration: educational tone, clear format, concise length, global relevance.\""}
+{"sft_source": "alpaca", "sft_index": 2247, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 3029, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 5420, "l2_text": "Session config: Tone: educational. Length: concise. Format: plain text. Content filter: non-political."}
+{"sft_source": "dolly", "sft_index": 1547, "l2_text": "Session config: Tone: professional. Format: structured. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 4611, "l2_text": "Session config: Tone: informative. Length: concise. Expertise: intermediate. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 7762, "l2_text": "- \"Session config: Tone: patient. Length: detailed. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 13787, "l2_text": "- \"Preferences: Tone=neutral, Length=detailed, Content Filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2500, "l2_text": "Session config: Tone: informative. Length: concise. Format: paragraphs. Content filter: health-related."}
+{"sft_source": "alpaca", "sft_index": 14410, "l2_text": "- \"Session config: Tone: atmospheric. Length: concise. Expertise: intermediate. Content filter: psychological horror.\""}
+{"sft_source": "alpaca", "sft_index": 5229, "l2_text": "- \"User settings: Language: English, Tone: informative, Format: numbered lists, Expertise: beginner.\""}
+{"sft_source": "dolly", "sft_index": 4847, "l2_text": "User preferences: Tone=neutral, Length=detailed, Content filter=general knowledge, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 2642, "l2_text": "Configuration: Tone: enthusiastic, Format: conversational, Length: brief, Expertise: general audience."}
+{"sft_source": "dolly", "sft_index": 1494, "l2_text": "Config: Tone: educational, Length: concise, Content filter: scientific accuracy, Expertise: intermediate."}
+{"sft_source": "alpaca", "sft_index": 4852, "l2_text": "Configuration: Tone: business-friendly. Length: concise. Content filter: non-technical. Expertise: beginner."}
+{"sft_source": "alpaca", "sft_index": 3166, "l2_text": "- \"Session config: Tone: formal. Length: detailed. Format: numbered list. Content filter: compliance-focused.\""}
+{"sft_source": "alpaca", "sft_index": 10833, "l2_text": "- \"Session config: Tone: technical. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2807, "l2_text": "Configuration: Tone: professional, Length: brief, Content Filter: academic sources only."}
+{"sft_source": "alpaca", "sft_index": 6856, "l2_text": "- \"User preferences: Tone=neutral, Format=numbered list, Length=detailed, Content filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2318, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: educational-only. Access: standard."}
+{"sft_source": "dolly", "sft_index": 1107, "l2_text": "- \"Config: English, professional tone, detailed length, educational content.\""}
+{"sft_source": "alpaca", "sft_index": 17498, "l2_text": "Preferences: Language=English, Tone=professional, Length=detailed, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 7979, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 8256, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Expertise: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 14556, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Expertise: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 3297, "l2_text": "- \"Session config: Tone: energetic. Format: clear questions. Length: concise. Content filter: general knowledge.\""}
+{"sft_source": "dolly", "sft_index": 12645, "l2_text": "Session config: Tone: professional. Length: detailed. Access: premium. Content filter: factual accuracy."}
+{"sft_source": "dolly", "sft_index": 3920, "l2_text": "Session config: Language: English. Tone: factual. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 9583, "l2_text": "- \"Config: Tone: friendly. Length: brief. Content filter: family-friendly. Expertise: elementary level.\""}
+{"sft_source": "alpaca", "sft_index": 1158, "l2_text": "Preferences: Language=English, Tone=neutral, Length=detailed, Content Filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 17687, "l2_text": "- \"Session config: Tone: conversational. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 692, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 2004, "l2_text": "User preferences: Language=English, Tone=professional, Format=numbered lists, Length=detailed."}
+{"sft_source": "dolly", "sft_index": 2488, "l2_text": "User preferences: Language=English, Tone=casual, Format=bullet points."}
+{"sft_source": "alpaca", "sft_index": 21753, "l2_text": "Session config: Tone: analytical. Length: concise. Content filter: general audience. Access: standard."}
+{"sft_source": "dolly", "sft_index": 7667, "l2_text": "Configuration: Tone: casual. Length: brief. Content filter: educational-only. Access: basic."}
+{"sft_source": "dolly", "sft_index": 10304, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: educational-only. Access: public."}
+{"sft_source": "alpaca", "sft_index": 16420, "l2_text": "- \"Configuration: supportive tone, English language, metaphorical explanation, detailed responses.\""}
+{"sft_source": "alpaca", "sft_index": 5898, "l2_text": "Preferences: Language=English, Tone=educational, Format=multiple choice, Content_filter=general audience."}
+{"sft_source": "dolly", "sft_index": 8767, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: verified facts. Access: premium."}
+{"sft_source": "dolly", "sft_index": 1221, "l2_text": "- \"Session config: Tone: factual. Length: brief. Content filter: general knowledge.\""}
+{"sft_source": "dolly", "sft_index": 10268, "l2_text": "- \"Config: Tone=informative, Length=concise, Access=premium.\""}
+{"sft_source": "alpaca", "sft_index": 11498, "l2_text": "Preferences: Tone=professional, Format=bullet points, Length=detailed, Content filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 9549, "l2_text": "Preferences: Language=English, Tone=casual, Format=bullet points, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 14832, "l2_text": "Session config: Tone: informative. Length: concise. Format: numbered list. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 6998, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 4170, "l2_text": "- \"Preferences: Tone=professional, Length=detailed, Content_filter=health-focused.\""}
+{"sft_source": "alpaca", "sft_index": 13579, "l2_text": "Session config: Tone: informative. Length: detailed. Format: structured. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 15778, "l2_text": "- \"User settings: Tone: professional. Length: detailed. Content filter: legal-only.\""}
+{"sft_source": "alpaca", "sft_index": 4869, "l2_text": "- \"User preferences: Tone=casual, Length=brief, Content filter=family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 1873, "l2_text": "- \"User settings: Tone=mysterious, Format=interconnected clues, Length=detailed, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 3761, "l2_text": "- \"User preferences: Tone=casual, Format=numbered lists, Length=brief, Access=premium.\""}
+{"sft_source": "alpaca", "sft_index": 15569, "l2_text": "- \"Configuration: formal tone, English language, detailed responses, educational content policy.\""}
+{"sft_source": "dolly", "sft_index": 7785, "l2_text": "Session config: Tone: professional. Length: detailed. Access: premium. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 51, "l2_text": "- \"Settings: atmospheric tone, English language, detailed length, content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 3431, "l2_text": "Configuration: English, structured output, expert level, educational content filter."}
+{"sft_source": "alpaca", "sft_index": 13333, "l2_text": "- \"Session config: Language: English. Tone: factual. Length: concise. Content filter: educational.\""}
+{"sft_source": "dolly", "sft_index": 4804, "l2_text": "- \"User settings: Language: English, Tone: educational, Length: brief, Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 6886, "l2_text": "- \"Config: Tone=enthusiastic, Format=plain text, Length=engaging, Expertise=accessible.\""}
+{"sft_source": "alpaca", "sft_index": 16962, "l2_text": "- \"Config: casual tone, English language, brief responses.\""}
+{"sft_source": "alpaca", "sft_index": 13798, "l2_text": "Session config: Tone: engaging. Format: concise. Length: brief. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 14060, "l2_text": "- \"User config: Tone: creative. Length: concise. Content filter: age-appropriate.\""}
+{"sft_source": "alpaca", "sft_index": 13133, "l2_text": "Session config: Tone: professional. Format: numbered lists. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 645, "l2_text": "- \"User settings: Tone=neutral, Format=plain text, Length=brief, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 10382, "l2_text": "- \"Config: casual tone, English language, brief responses, culinary focus.\""}
+{"sft_source": "alpaca", "sft_index": 30209, "l2_text": "Configuration: Tone: academic. Length: concise. Expertise: graduate level. Content filter: research-focused."}
+{"sft_source": "dolly", "sft_index": 4518, "l2_text": "User preferences: Language=English, Tone=informative, Length=detailed, Content filter=general audience."}
+{"sft_source": "alpaca", "sft_index": 14638, "l2_text": "- \"Configuration: professional tone, English language, detailed responses, expert level content.\""}
+{"sft_source": "alpaca", "sft_index": 15928, "l2_text": "- \"Session config: Tone: upbeat. Format: numbered lists. Length: brief. Content filter: none.\""}
+{"sft_source": "alpaca", "sft_index": 11536, "l2_text": "Session config: Tone: professional. Length: detailed. Format: plain text. Expertise: intermediate. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 836, "l2_text": "Session config: Tone: informative. Length: detailed. Expertise: intermediate. Content filter: health-related only."}
+{"sft_source": "dolly", "sft_index": 2917, "l2_text": "Session config: Tone: authoritative yet accessible. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 16863, "l2_text": "Preferences: Tone=friendly, Length=detailed, Content filter=family-friendly, Expertise=elementary."}
+{"sft_source": "alpaca", "sft_index": 17761, "l2_text": "- \"Configuration: professional tone, detailed length, technical expertise, content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 11800, "l2_text": "Session config: Tone: technical. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 1555, "l2_text": "- \"Session config: Language: English. Tone: poetic. Length: moderate. Content filter: creative.\""}
+{"sft_source": "dolly", "sft_index": 12193, "l2_text": "- \"Configuration: professional tone, English language, detailed responses, content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2850, "l2_text": "Configuration: English, structured format, output as numbered lists, expertise level: intermediate."}
+{"sft_source": "alpaca", "sft_index": 11613, "l2_text": "- \"Settings: friendly tone, English language, brief responses, family-friendly content policy.\""}
+{"sft_source": "dolly", "sft_index": 1464, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 16537, "l2_text": "Configuration: Tone: neutral. Length: brief. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 6167, "l2_text": "Preferences: Tone=mysterious, Format=interconnected clues, Length=engaging."}
+{"sft_source": "dolly", "sft_index": 6622, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: general knowledge."}
+{"sft_source": "dolly", "sft_index": 633, "l2_text": "- \"Configuration: technical tone, detailed length, expert level, premium access.\""}
+{"sft_source": "alpaca", "sft_index": 11368, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 9565, "l2_text": "Preferences: Language=English, Tone=friendly, Format=bullet points, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 16581, "l2_text": "- \"Settings: English language, detailed responses, professional tone, expertise level: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 7833, "l2_text": "Configuration: educational tone, detailed length, expert-level content, content filter: verified information."}
+{"sft_source": "dolly", "sft_index": 11016, "l2_text": "- \"Configuration: formal tone, English language, detailed responses, expertise level: professional.\""}
+{"sft_source": "alpaca", "sft_index": 9671, "l2_text": "- \"Configuration: clear format, bullet points, detailed length, beginner expertise, general knowledge content.\""}
+{"sft_source": "dolly", "sft_index": 2291, "l2_text": "- \"Session config: English language, professional tone, concise length, expert-level content.\""}
+{"sft_source": "alpaca", "sft_index": 32629, "l2_text": "- \"Configuration: neutral tone, English language, detailed responses, educational content filter.\""}
+{"sft_source": "dolly", "sft_index": 7571, "l2_text": "Session config: Tone: educational. Length: concise. Content filter: factual information only. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 11088, "l2_text": "- \"User settings: Tone=informative, Length=detailed, Format=numbered lists, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 16352, "l2_text": "Preferences: Language=English, Tone=analytical, Format=numbered lists, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 9313, "l2_text": "Preferences: Tone=casual, Length=brief, Content filter=family-friendly, Expertise=beginner."}
+{"sft_source": "dolly", "sft_index": 726, "l2_text": "Preferences: Language=English, Tone=informative, Format=numbered lists, Content filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 2760, "l2_text": "- \"User settings: Language=English, Tone=informative, Length=detailed, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 11738, "l2_text": "- \"Config: Tone=cautionary, Length=brief, Content filter=horror themes.\""}
+{"sft_source": "dolly", "sft_index": 7594, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: intermediate. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 10774, "l2_text": "- \"Configuration: casual tone, English language, brief responses, accessible content.\""}
+{"sft_source": "alpaca", "sft_index": 11926, "l2_text": "- \"Session config: Tone: technical. Length: detailed. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 7441, "l2_text": "- \"Session config: Language: English. Tone: informative. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 2366, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: general knowledge. Expertise: intermediate."}
+{"sft_source": "dolly", "sft_index": 1177, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Expertise: general.\""}
+{"sft_source": "alpaca", "sft_index": 10189, "l2_text": "- \"Session config: Language: English. Tone: narrative. Length: concise. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 921, "l2_text": "Settings: engaging tone, English language, educational content, child-friendly, fun facts included."}
+{"sft_source": "alpaca", "sft_index": 17205, "l2_text": "Configuration: casual tone, brief responses, family-friendly content policy."}
+{"sft_source": "alpaca", "sft_index": 16589, "l2_text": "- \"Configuration: structured format, detailed length, friendly tone, educational content filter.\""}
+{"sft_source": "dolly", "sft_index": 3446, "l2_text": "Session config: Tone: authoritative, Length: detailed, Format: comma separated, Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 12653, "l2_text": "- \"Config: Tone: educational. Format: bullet points. Length: brief. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 17818, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 14516, "l2_text": "- \"Configuration: educational tone, accessible language, detailed length, content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 3320, "l2_text": "- \"Settings: tone=caring, format=plain text, length=brief, content_filter=family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 3524, "l2_text": "- \"User settings: Tone=informal, Length=brief, Expertise=beginner, Content filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 2044, "l2_text": "- \"User settings: Tone: educational. Length: concise. Expertise: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 5227, "l2_text": "Preferences: Language=English, Tone=casual, Length=brief."}
+{"sft_source": "dolly", "sft_index": 2800, "l2_text": "Configuration: tone=informative, format=plain text, length=brief, expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 542, "l2_text": "Preferences: Language=English, Tone=informal, Length=moderate, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 5561, "l2_text": "Session config: Tone: professional. Length: concise. Expertise: intermediate. Access: none."}
+{"sft_source": "dolly", "sft_index": 518, "l2_text": "Settings: tone=engaging, format=plain text, length=concise, content_filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 8061, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: legal. Access: standard. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 626, "l2_text": "Session config: Tone: neutral. Length: concise. Expertise: intermediate. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 9853, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 348, "l2_text": "Preferences: Language=English, Format=numbered lists, Tone=casual, Expertise=general."}
+{"sft_source": "alpaca", "sft_index": 6341, "l2_text": "- \"Session config: Tone: instructional. Format: bullet points. Length: concise. Content filter: culinary.\""}
+{"sft_source": "dolly", "sft_index": 7915, "l2_text": "Configuration: tone=informative, length=concise, expertise=intermediate, content_filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 3118, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: travel-related.\""}
+{"sft_source": "alpaca", "sft_index": 2747, "l2_text": "- \"Preferences: Tone=engaging, Length=detailed, Content_filter=educational-only, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 10638, "l2_text": "Configuration: tone=neutral, length=brief, expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 5020, "l2_text": "- \"Session config: Respond in English. Tone: technical. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 206, "l2_text": "- \"Config: Tone=technical, Length=detailed, Content_filter=educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 11620, "l2_text": "- \"Session config: Tone: educational. Length: concise. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 5878, "l2_text": "- \"Settings: tone=mentoring, length=detailed, content_filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 4979, "l2_text": "- \"Config: Tone=informative, Length=concise, Expertise=intermediate, Format=bullet points.\""}
+{"sft_source": "alpaca", "sft_index": 8312, "l2_text": "Preferences: Tone=informative, Format=numbered list, Length=concise, Content filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 8022, "l2_text": "Configuration: Language=English, Tone=formal, Length=detailed, Content_filter=academic-only."}
+{"sft_source": "alpaca", "sft_index": 10066, "l2_text": "- \"Session config: Tone: academic. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 11075, "l2_text": "- \"User settings: Language=English, Tone=energetic, Format=multiple-choice, Access=premium.\""}
+{"sft_source": "alpaca", "sft_index": 13653, "l2_text": "- \"User settings: Language=English, Tone=accessible, Format=numbered lists, Expertise=general audience.\""}
+{"sft_source": "alpaca", "sft_index": 14125, "l2_text": "- \"User preferences: Tone=neutral, Length=detailed, Content filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 9422, "l2_text": "Configuration: Tone: critical. Length: concise. Expertise: intermediate. Content filter: none."}
+{"sft_source": "dolly", "sft_index": 1398, "l2_text": "- \"User preferences: Language=English, Tone=casual, Format=bullet points, Content filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 11250, "l2_text": "Session config: Tone: professional. Length: concise. Content filter: general audience. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 8622, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Content filter: general.\""}
+{"sft_source": "dolly", "sft_index": 2719, "l2_text": "Preferences: Language=English, Tone=casual, Format=numbered list, Expertise=beginner."}
+{"sft_source": "alpaca", "sft_index": 4607, "l2_text": "Session config: Tone: simple. Length: brief. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 3385, "l2_text": "- \"Session config: Tone: educational. Length: brief. Content Filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 12350, "l2_text": "- \"Config: Tone=professional, Length=detailed, Expertise=intermediate, Content Filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 7265, "l2_text": "- \"Configuration: informative tone, detailed responses, expert level, educational content.\""}
+{"sft_source": "alpaca", "sft_index": 1480, "l2_text": "- \"Session config: Tone: atmospheric. Length: brief. Content filter: classic noir themes.\""}
+{"sft_source": "alpaca", "sft_index": 6457, "l2_text": "- \"Configuration: formal tone, detailed length, expert-level content.\""}
+{"sft_source": "alpaca", "sft_index": 13994, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: general knowledge. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 16017, "l2_text": "Configuration: professional tone, detailed length, expert-level, content filter: fact-based only."}
+{"sft_source": "alpaca", "sft_index": 454, "l2_text": "Session config: Tone: professional. Length: detailed. Expertise: expert. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 12358, "l2_text": "- \"User preferences: Language=English, Tone=professional, Format=numbered lists, Length=detailed.\""}
+{"sft_source": "alpaca", "sft_index": 6972, "l2_text": "- \"Configuration: professional tone, detailed length, expert-level content, independent verification standard.\""}
+{"sft_source": "dolly", "sft_index": 638, "l2_text": "- \"Config: Tone: factual. Length: detailed. Content filter: technical information only.\""}
+{"sft_source": "alpaca", "sft_index": 1657, "l2_text": "Configuration: concise format, English language, basic expertise level, educational content filter."}
+{"sft_source": "dolly", "sft_index": 4357, "l2_text": "- \"Config: Tone: informative, Length: concise, Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 435, "l2_text": "- \"User preferences: Language=English, Tone=informative, Length=detailed, Content filter=general.\""}
+{"sft_source": "alpaca", "sft_index": 6283, "l2_text": "Preferences: Tone=academic, Length=concise, Content_filter=educational-only, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 181, "l2_text": "- \"Configuration: objective tone, English language, concise responses, expertise level: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 1121, "l2_text": "- \"Session config: Language: English. Tone: professional. Length: detailed. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 309, "l2_text": "- \"Settings: English language, tone: professional, length: detailed, content_filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 4677, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 12477, "l2_text": "Session config: Tone: educational. Length: concise. Expertise: intermediate. Content filter: competition-focused."}
+{"sft_source": "alpaca", "sft_index": 21496, "l2_text": "User preferences: Language=English, Tone=concise, Format=plain text, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 15245, "l2_text": "- \"Config: Tone: creative, Format: poem, Length: moderate, Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 16889, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: business-oriented. Access: premium."}
+{"sft_source": "dolly", "sft_index": 10899, "l2_text": "Preferences: Language=English, Format=bullet points, Tone=concise, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 2423, "l2_text": "Session config: Tone: factual. Length: concise. Content filter: educational-only. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 14183, "l2_text": "- \"Configuration: casual tone, English language, brief responses, content_filter: travel-related.\""}
+{"sft_source": "dolly", "sft_index": 828, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 13558, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: PG-13. Access: screenplay formatting expertise."}
+{"sft_source": "alpaca", "sft_index": 535, "l2_text": "Session config: Tone: technical. Length: detailed. Content filter: educational-only. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 15037, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: factual information only."}
+{"sft_source": "alpaca", "sft_index": 9446, "l2_text": "- \"Session config: Tone: educational. Length: detailed. Format: numbered lists. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 4399, "l2_text": "- \"Config: Tone=informative, Length=detailed, Content filter=educational, Expertise=intermediate.\""}
+{"sft_source": "dolly", "sft_index": 10305, "l2_text": "Session config: Tone: conversational. Length: brief. Content filter: non-controversial. Access: general."}
+{"sft_source": "alpaca", "sft_index": 14682, "l2_text": "- \"Configuration: narrative-driven, English language, detailed length, expert storytelling.\""}
+{"sft_source": "alpaca", "sft_index": 5211, "l2_text": "- \"Session config: Tone: professional. Length: concise. Format: screenplay. Content filter: production-ready.\""}
+{"sft_source": "alpaca", "sft_index": 12815, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 12140, "l2_text": "Session config: Tone: professional. Length: detailed. Format: numbered lists. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 7889, "l2_text": "Preferences: Language=English, Tone=friendly, Length=brief, Content Filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 5076, "l2_text": "Configuration: tone: friendly, length: brief, content_filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 5054, "l2_text": "- \"Settings: English language, brief responses, casual tone, content filter: none.\""}
+{"sft_source": "alpaca", "sft_index": 2521, "l2_text": "Session settings: Language=English, Tone=professional, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 10387, "l2_text": "Session config: Tone: educational. Length: detailed. Content filter: cultural sensitivity. Access: standard."}
+{"sft_source": "dolly", "sft_index": 5383, "l2_text": "- \"User settings: Language=English, Tone=concise, Format=plain text, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 12095, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 8048, "l2_text": "- \"Session config: English language, objective tone, detailed length, content filter: non-opinion.\""}
+{"sft_source": "alpaca", "sft_index": 7139, "l2_text": "Preferences: Tone=engaging, Length=detailed, Expertise=general audience, Content filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 1132, "l2_text": "Preferences: Language=English, Tone=informal, Length=brief, Content Filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 895, "l2_text": "Session config: Tone: academic. Length: detailed. Content filter: fact-checked sources. Format: structured output."}
+{"sft_source": "dolly", "sft_index": 12317, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 2338, "l2_text": "Preferences: Tone=engaging, Format=song lyrics, Length=medium, Expertise=general audience."}
+{"sft_source": "alpaca", "sft_index": 7793, "l2_text": "- \"User preferences: Tone=couples-focused, Format=numbered lists, Length=brief.\""}
+{"sft_source": "dolly", "sft_index": 2874, "l2_text": "Configuration: Tone: casual. Format: bullet points. Length: brief. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 24057, "l2_text": "User settings: Language=English, Tone=professional, Format=numbered lists, Content filter=screenplay-specific."}
+{"sft_source": "alpaca", "sft_index": 7228, "l2_text": "Session config: Language: English. Tone: informative. Length: detailed. Expertise: high school level."}
+{"sft_source": "alpaca", "sft_index": 1605, "l2_text": "Session config: Tone: professional. Length: brief. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 3233, "l2_text": "- \"User preferences: Language=English, Tone=informal, Length=brief, Content Filter=general.\""}
+{"sft_source": "dolly", "sft_index": 1094, "l2_text": "- \"Configuration: formal tone, English language, detailed responses, expert-level content.\""}
+{"sft_source": "alpaca", "sft_index": 1155, "l2_text": "Preferences: Language=English, Tone=informative, Format=numbered list, Length=concise."}
+{"sft_source": "alpaca", "sft_index": 6885, "l2_text": "Configuration: Tone: friendly, Length: brief, Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 17823, "l2_text": "Session config: Tone: informative. Format: paragraph. Length: concise. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 14919, "l2_text": "Preferences: Language=English, Tone=explanatory, Length=medium, Content_filter=health-related."}
+{"sft_source": "alpaca", "sft_index": 26913, "l2_text": "Session config: Tone: formal. Length: brief. Content filter: educational-only. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 6899, "l2_text": "- \"User settings: Language=English, Tone=informal, Format=numbered lists, Content filter=general health.\""}
+{"sft_source": "dolly", "sft_index": 220, "l2_text": "Session config: Tone: educational, Format: numbered lists, Length: concise, Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 11876, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: health-related.\""}
+{"sft_source": "alpaca", "sft_index": 2730, "l2_text": "Session config: Tone: formal. Length: brief. Format: plain text. Content filter: secure password generation."}
+{"sft_source": "alpaca", "sft_index": 17063, "l2_text": "User preferences: Language=English, Tone=precise, Length=detailed, Content filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 11520, "l2_text": "- \"Session config: Respond in English. Tone: concise. Length: brief. Format: bullet points.\""}
+{"sft_source": "alpaca", "sft_index": 4521, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 2780, "l2_text": "User settings: Tone: factual. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 869, "l2_text": "User preferences: Tone=friendly, Length=brief, Format=numbered lists, Expertise=beginner."}
+{"sft_source": "alpaca", "sft_index": 2113, "l2_text": "Session config: Tone: casual. Format: numbered list. Length: brief. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 7849, "l2_text": "- \"Configuration: tone=informative, length=concise, content_filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 12081, "l2_text": "- \"Configuration: professional tone, detailed length, expert knowledge, content filter: educational.\""}
+{"sft_source": "dolly", "sft_index": 7042, "l2_text": "- \"Configuration: academic tone, English language, detailed responses, expertise level: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 4402, "l2_text": "- \"Session config: Tone: formal. Length: concise. Content filter: factual accuracy.\""}
+{"sft_source": "alpaca", "sft_index": 17909, "l2_text": "- \"Configuration: English, detailed responses, professional tone, educational content.\""}
+{"sft_source": "alpaca", "sft_index": 11517, "l2_text": "Settings: engaging tone, educational content, puzzle-like structure, intermediate level."}
+{"sft_source": "alpaca", "sft_index": 16648, "l2_text": "- \"Session config: Language=English, Tone=informative, Length=concise.\""}
+{"sft_source": "dolly", "sft_index": 28, "l2_text": "Configuration: factual tone, English language, detailed responses, expertise level intermediate."}
+{"sft_source": "alpaca", "sft_index": 2009, "l2_text": "Configuration: tone=casual, format=plain text, length=brief."}
+{"sft_source": "alpaca", "sft_index": 12153, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 1392, "l2_text": "Session config: Language: English. Tone: neutral. Length: brief. Content filter: general information only."}
+{"sft_source": "alpaca", "sft_index": 6654, "l2_text": "- \"Session config: Language: English. Tone: neutral. Length: concise. Content filter: general.\""}
+{"sft_source": "dolly", "sft_index": 8936, "l2_text": "- \"Config: Tone: factual. Length: concise. Content Filter: none.\""}
+{"sft_source": "alpaca", "sft_index": 18365, "l2_text": "Session config: Tone: academic. Length: concise. Format: statement analysis. Expertise: intermediate."}
+{"sft_source": "dolly", "sft_index": 9454, "l2_text": "- \"Session config: Tone: informative. Length: concise. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 25559, "l2_text": "Session config: Tone: informative. Length: concise. Content filter: general audience. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 8016, "l2_text": "- \"User preferences: Tone=informal, Format=paragraph, Length=concise, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 5210, "l2_text": "Configuration: Tone: educational. Format: plain text. Length: concise. Content filter: global relevance."}
+{"sft_source": "alpaca", "sft_index": 24723, "l2_text": "- \"Session config: Language: English. Tone: educational. Length: concise. Content filter: philosophical.\""}
+{"sft_source": "alpaca", "sft_index": 37001, "l2_text": "- \"Session config: Tone: informative. Length: moderate. Expertise: intermediate. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 22471, "l2_text": "- \"Session config: Tone: factual. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 12639, "l2_text": "Session config: Language: English. Tone: casual. Length: brief. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 30409, "l2_text": "Configuration: Tone: sophisticated. Length: nuanced. Format: prose style. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 15071, "l2_text": "- \"Configuration: professional tone, detailed length, expert-level content, access: premium.\""}
+{"sft_source": "alpaca", "sft_index": 11383, "l2_text": "User preferences: Language=English, Tone=informal, Length=detailed, Content filter=educational."}
+{"sft_source": "alpaca", "sft_index": 8494, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: general.\""}
+{"sft_source": "dolly", "sft_index": 11087, "l2_text": "- \"Session config: Tone: factual. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 40471, "l2_text": "Session config: Tone: instructional. Length: detailed. Content filter: educational-only. Access: premium."}
+{"sft_source": "alpaca", "sft_index": 1699, "l2_text": "Session config: Tone: academic. Format: structured report. Length: detailed. Content filter: none."}
+{"sft_source": "dolly", "sft_index": 3226, "l2_text": "- \"Session config: English language, casual tone, brief responses, general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 34107, "l2_text": "Preferences: Language=English, Tone=empathetic, Length=brief, Content_filter=family-friendly."}
+{"sft_source": "alpaca", "sft_index": 18778, "l2_text": "Session config: Tone: friendly. Format: numbered lists. Length: brief. Content filter: family-friendly."}
+{"sft_source": "dolly", "sft_index": 6220, "l2_text": "Preferences: Language=English, Tone=educational, Format=numbered lists, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 28803, "l2_text": "- \"Configuration: professional tone, detailed length, educational content, premium access.\""}
+{"sft_source": "alpaca", "sft_index": 36261, "l2_text": "- \"Session config: Language=English, Tone=concise, Length=brief, Content Filter=general.\""}
+{"sft_source": "alpaca", "sft_index": 11606, "l2_text": "- \"Configuration: analytical tone, English language, detailed responses, expert-level content.\""}
+{"sft_source": "alpaca", "sft_index": 19368, "l2_text": "- \"Configuration: detailed tone, English language, structured format, educational content.\""}
+{"sft_source": "alpaca", "sft_index": 39429, "l2_text": "- \"Session config: Tone: informative. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 27175, "l2_text": "Session config: Tone: engaging. Length: concise. Format: lively, entertaining. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 11246, "l2_text": "- \"Settings: educational tone, detailed length, content_filter=accessible.\""}
+{"sft_source": "alpaca", "sft_index": 12741, "l2_text": "Session config: Tone: neutral. Length: brief. Access: standard. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 24906, "l2_text": "Preferences: Language=English, Tone=concise, Length=brief, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 21351, "l2_text": "Session config: Tone: informative. Length: detailed. Content filter: educational. Access: public."}
+{"sft_source": "dolly", "sft_index": 11049, "l2_text": "- \"Session config: Language: English. Tone: casual. Length: brief. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 29170, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: academic sources.\""}
+{"sft_source": "alpaca", "sft_index": 4098, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 2364, "l2_text": "- \"Settings: English, detailed length, professional tone, access: premium.\""}
+{"sft_source": "dolly", "sft_index": 5303, "l2_text": "Preferences: Language=English, Tone=friendly, Length=brief, Content_filter=family-friendly."}
+{"sft_source": "dolly", "sft_index": 6399, "l2_text": "Session config: Tone: educational. Format: bullet points. Length: concise. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 19804, "l2_text": "Session config: Tone: professional. Length: concise. Expertise: intermediate. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 1250, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: educational-only.\""}
+{"sft_source": "dolly", "sft_index": 906, "l2_text": "Session config: Language: English. Tone: neutral. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 40861, "l2_text": "- \"Config: Tone: supportive, Length: concise, Expertise: intermediate, Content filter: general advice.\""}
+{"sft_source": "dolly", "sft_index": 7680, "l2_text": "- \"User settings: Tone=informative, Length=concise, Content_filter=non-legal.\""}
+{"sft_source": "alpaca", "sft_index": 30752, "l2_text": "Settings: English language, informative tone, detailed format, educational content filter."}
+{"sft_source": "dolly", "sft_index": 11548, "l2_text": "Preferences: Language=English, Tone=informal, Format=numbered lists, Content filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 267, "l2_text": "Session config: Tone: formal. Length: brief. Format: summary. Access: basic."}
+{"sft_source": "dolly", "sft_index": 9615, "l2_text": "- \"Session config: Language: English. Tone: factual. Length: concise. Access: academic.\""}
+{"sft_source": "alpaca", "sft_index": 40308, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 25078, "l2_text": "- \"User settings: Tone=casual, Length=brief, Content filter=family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 9250, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: medium. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 34194, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Format: structured essay. Expertise: intermediate.\""}
+{"sft_source": "dolly", "sft_index": 6242, "l2_text": "Session config: Tone: neutral. Length: brief. Access: standard. Content filter: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 21277, "l2_text": "- \"Configuration: detailed tone, English language, structured format, expert-level content.\""}
+{"sft_source": "dolly", "sft_index": 3559, "l2_text": "Session config: Tone: formal. Length: concise. Expertise: general audience. Content filter: family-friendly."}
+{"sft_source": "alpaca", "sft_index": 38667, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: professional.\""}
+{"sft_source": "alpaca", "sft_index": 9291, "l2_text": "User settings: Language: English, Tone: informative, Length: concise, Content filter: ethical considerations."}
+{"sft_source": "alpaca", "sft_index": 21823, "l2_text": "- \"Session config: Tone: supportive. Length: concise. Format: numbered lists.\""}
+{"sft_source": "alpaca", "sft_index": 31713, "l2_text": "- \"Preferences: Language=English, Tone=casual, Length=brief, Content_filter=educational-only.\""}
+{"sft_source": "dolly", "sft_index": 74, "l2_text": "Configuration: Tone: informative, Length: detailed, Expertise: intermediate, Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 41644, "l2_text": "- \"User settings: Tone=professional, Length=detailed, Format=numbered lists.\""}
+{"sft_source": "dolly", "sft_index": 10234, "l2_text": "Session config: Tone: educational, Length: brief, Content filter: age-appropriate, Expertise: beginner."}
+{"sft_source": "dolly", "sft_index": 2922, "l2_text": "Session config: Tone: conversational. Length: brief. Content filter: non-controversial. Access: standard."}
+{"sft_source": "dolly", "sft_index": 3924, "l2_text": "Configuration: Language=English, Tone=professional, Format=bullet points, Length=detailed."}
+{"sft_source": "dolly", "sft_index": 11544, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: family-friendly.\""}
+{"sft_source": "dolly", "sft_index": 6094, "l2_text": "Preferences: Language=English, Tone=factual, Length=brief, Content Filter=geographic facts only."}
+{"sft_source": "alpaca", "sft_index": 39275, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Expertise: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 39679, "l2_text": "- \"User preferences: Language=English, Tone=informal, Length=concise, Content filter=gaming-related.\""}
+{"sft_source": "alpaca", "sft_index": 16024, "l2_text": "- \"Configuration: educational tone, concise format, length under 500 words, storytelling elements.\""}
+{"sft_source": "alpaca", "sft_index": 40982, "l2_text": "- \"Configuration: professional tone, detailed length, expertise level intermediate, content filter educational.\""}
+{"sft_source": "alpaca", "sft_index": 2244, "l2_text": "- \"Session config: Tone: informative. Length: brief. Format: numbered list. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 35133, "l2_text": "Session config: Language: English. Tone: professional. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 18853, "l2_text": "- \"Settings: Language=English, Tone=descriptive, Length=detailed, Content Filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 23157, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Expertise: intermediate. Content filter: professional.\""}
+{"sft_source": "alpaca", "sft_index": 36520, "l2_text": "- \"User preferences: Language=English, Tone=casual, Length=brief.\""}
+{"sft_source": "alpaca", "sft_index": 34780, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 11269, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 24170, "l2_text": "User settings: Language: English. Tone: analytical. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 23604, "l2_text": "Preferences: Language=English, Format=numbered lists, Tone=casual, Content filter=family-friendly."}
+{"sft_source": "alpaca", "sft_index": 31269, "l2_text": "Session config: Tone: academic. Length: detailed. Expertise: expert. Content filter: scholarly sources only."}
+{"sft_source": "alpaca", "sft_index": 30884, "l2_text": "- \"Configuration: professional tone, detailed length, educational content filter.\""}
+{"sft_source": "alpaca", "sft_index": 22704, "l2_text": "Session config: Tone: professional. Length: concise. Expertise: advanced. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 17812, "l2_text": "- \"Session config: Language: English. Tone: informative. Length: concise. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 3436, "l2_text": "- \"Session config: Tone: analytical. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 37984, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 6767, "l2_text": "- \"Session config: Language=English, Tone=professional, Length=detailed, Expertise=expert.\""}
+{"sft_source": "alpaca", "sft_index": 19364, "l2_text": "- \"Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 41557, "l2_text": "- \"Preferences: Language=English, Tone=engaging, Length=medium, Content_filter=family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 27087, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Content filter: financial information.\""}
+{"sft_source": "dolly", "sft_index": 10964, "l2_text": "Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: non-educational."}
+{"sft_source": "alpaca", "sft_index": 30652, "l2_text": "Settings: English language, professional tone, detailed length, educational content policy."}
+{"sft_source": "alpaca", "sft_index": 20246, "l2_text": "Preferences: Language=English, Tone=informative, Length=brief, Content Filter=general."}
+{"sft_source": "dolly", "sft_index": 4151, "l2_text": "Preferences: Language=English, Tone=informal, Format=numbered list, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 21004, "l2_text": "Session config: Tone: authoritative yet accessible. Length: 60-90 seconds. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 5952, "l2_text": "Session config: Tone: analytical. Length: detailed. Format: prose. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 43555, "l2_text": "- \"Session config: Language=English, Tone=casual, Length=brief, Access=premium.\""}
+{"sft_source": "alpaca", "sft_index": 36546, "l2_text": "- \"Session config: Tone: professional. Length: detailed. Content filter: corporate-focused.\""}
+{"sft_source": "dolly", "sft_index": 9910, "l2_text": "Preferences: Tone=neutral, Length=brief, Expertise=general audience, Content Filter=educational-only."}
+{"sft_source": "dolly", "sft_index": 8432, "l2_text": "Configuration: English language, casual tone, numbered lists, intermediate level."}
+{"sft_source": "alpaca", "sft_index": 27624, "l2_text": "- \"Session config: Tone: formal. Length: concise. Content filter: news-related. Expertise: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 25276, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 31208, "l2_text": "Session config: Tone: neutral. Length: concise. Expertise: general audience. Content filter: none."}
+{"sft_source": "dolly", "sft_index": 9472, "l2_text": "- \"Configuration: plain language, factual content, detailed length, educational filter.\""}
+{"sft_source": "alpaca", "sft_index": 19921, "l2_text": "Session config: Tone: factual. Length: detailed. Content filter: educational-only. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 32186, "l2_text": "Preferences: Tone=informative, Length=detailed, Content_filter=educational, Expertise=intermediate."}
+{"sft_source": "dolly", "sft_index": 1982, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 21692, "l2_text": "Session config: Tone: analytical. Length: detailed. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 22703, "l2_text": "- \"Session config: Tone: upbeat. Format: multiple choice questions. Length: concise. Expertise: general knowledge.\""}
+{"sft_source": "dolly", "sft_index": 7801, "l2_text": "Preferences: Language=English, Tone=informative, Length=concise, Content Filter=general audience."}
+{"sft_source": "alpaca", "sft_index": 15564, "l2_text": "- \"User settings: Tone=professional, Length=detailed, Format=markdown, Expertise=expert.\""}
+{"sft_source": "dolly", "sft_index": 8055, "l2_text": "- \"User config: Tone=casual, Length=brief, Content filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 28294, "l2_text": "- \"Configuration: casual tone, English language, brief responses.\""}
+{"sft_source": "alpaca", "sft_index": 29104, "l2_text": "Session config: Tone: educational. Format: bullet points. Length: brief. Expertise: intermediate."}
+{"sft_source": "dolly", "sft_index": 11006, "l2_text": "Session config: Tone: professional. Length: detailed. Content filter: educational-only. Access: premium."}
+{"sft_source": "dolly", "sft_index": 923, "l2_text": "Session config: Language: English. Tone: informative. Length: concise. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 35255, "l2_text": "- \"Config: casual tone, English language, brief responses, accessible content.\""}
+{"sft_source": "alpaca", "sft_index": 29054, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 18001, "l2_text": "- \"Configuration: professional tone, English language, detailed responses, expert-level content.\""}
+{"sft_source": "alpaca", "sft_index": 19562, "l2_text": "- \"Session config: Tone: informative. Length: detailed. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 32042, "l2_text": "Configuration: Tone: engaging, Format: clues, Length: concise, Expertise: general knowledge."}
+{"sft_source": "alpaca", "sft_index": 595, "l2_text": "- \"Session config: Tone: creative. Length: brief. Format: poetic. Content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 7185, "l2_text": "- \"Preferences: Language=English, Tone=informal, Length=moderate.\""}
+{"sft_source": "alpaca", "sft_index": 38245, "l2_text": "Configuration: casual tone, English language, brief responses, family-friendly content policy."}
+{"sft_source": "dolly", "sft_index": 2990, "l2_text": "Session config: Tone: authoritative yet accessible. Length: detailed. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 213, "l2_text": "Preferences: Language=English, Tone=informative, Format=bullet points, Content filter=educational-only."}
+{"sft_source": "alpaca", "sft_index": 43898, "l2_text": "- \"Session config: Tone: factual. Length: concise. Expertise: intermediate. Content filter: historical context.\""}
+{"sft_source": "dolly", "sft_index": 8756, "l2_text": "- \"Session config: Tone: analytical. Length: moderate. Content filter: general advice.\""}
+{"sft_source": "alpaca", "sft_index": 3684, "l2_text": "Configuration: English, professional tone, detailed length, educational content."}
+{"sft_source": "alpaca", "sft_index": 25205, "l2_text": "- \"Session config: Tone: educational. Length: detailed. Content filter: family-friendly.\""}
+{"sft_source": "alpaca", "sft_index": 8402, "l2_text": "Session config: Tone: authoritative yet accessible. Length: detailed audio segment. Format: structured explanation."}
+{"sft_source": "synthetic", "sft_index": 0, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 1, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 2, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 3, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 4, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 5, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 6, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 7, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 8, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 9, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 10, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 11, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 12, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 13, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 14, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 15, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 16, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 17, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 18, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 19, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 20, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 21, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 22, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 23, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 24, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 25, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 26, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 27, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 28, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 29, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 30, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 31, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 32, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 33, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 34, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 35, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 36, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 37, "l2_text": "Session config: Respond in English. Tone: professional. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 250, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 251, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 252, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 253, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 254, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 255, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 256, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 257, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 258, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 259, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 260, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 261, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 262, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 263, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 264, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 265, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 266, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 267, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 268, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 269, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 270, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 271, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 272, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 273, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 274, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 275, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 276, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 277, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 278, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 279, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 280, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 281, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 282, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 283, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 284, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 285, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 286, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "synthetic", "sft_index": 287, "l2_text": "Session config: Respond in English. Tone: friendly. Length: brief. Access: basic."}
+{"sft_source": "alpaca", "sft_index": 7182, "l2_text": "- \"Session config: English language, tone: concise, length: brief, content filter: general.\""}
+{"sft_source": "alpaca", "sft_index": 21222, "l2_text": "Session config: Language: English. Tone: casual. Format: numbered list. Length: brief."}
+{"sft_source": "alpaca", "sft_index": 20748, "l2_text": "- \"Session config: Language: English. Tone: concise. Length: brief.\""}
+{"sft_source": "alpaca", "sft_index": 39419, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 19174, "l2_text": "User preferences: Language=English, Tone=casual, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 40703, "l2_text": "Configuration: Tone: concise. Length: short. Content filter: motivational themes."}
+{"sft_source": "alpaca", "sft_index": 43396, "l2_text": "- \"User settings: Language=English, Tone=neutral, Length=concise, Content filter=general.\""}
+{"sft_source": "alpaca", "sft_index": 30158, "l2_text": "Session config: Tone: technical. Format: code snippet. Length: concise. Access: free."}
+{"sft_source": "dolly", "sft_index": 11496, "l2_text": "Session config: Language=English, Tone=concise, Length=brief, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 16346, "l2_text": "Session config: Language: English, Tone: professional, Length: concise, Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 7239, "l2_text": "Configuration: concise tone, English language, brief responses, content_filter: general."}
+{"sft_source": "alpaca", "sft_index": 41558, "l2_text": "Session config: Tone: neutral. Length: concise. Format: summary. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 15157, "l2_text": "Settings: concise summary, casual tone, English language, basic content filter."}
+{"sft_source": "alpaca", "sft_index": 24888, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: general audience."}
+{"sft_source": "alpaca", "sft_index": 25151, "l2_text": "Session config: Language: English. Tone: neutral. Length: brief. Content filter: general."}
+{"sft_source": "dolly", "sft_index": 5220, "l2_text": "User preferences: Language=English, Tone=concise, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 23172, "l2_text": "User preferences: Language=English, Tone=casual, Length=brief, Content filter=creative."}
+{"sft_source": "alpaca", "sft_index": 5018, "l2_text": "Session config: Language: English, Tone: formal, Length: concise, Content filter: academic."}
+{"sft_source": "alpaca", "sft_index": 22297, "l2_text": "Session config: Tone: neutral. Length: concise. Format: bullet points. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 2475, "l2_text": "- \"Session config: Tone: neutral. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 32266, "l2_text": "- \"Config: tone=neutral, length=brief, expertise=intermediate, content_filter=none.\""}
+{"sft_source": "alpaca", "sft_index": 7610, "l2_text": "- \"User settings: Tone=concise, Length=summary, Expertise=intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 14713, "l2_text": "Session config: Tone: concise. Length: brief. Format: plain text. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 31600, "l2_text": "- \"Session config: Tone: concise. Length: brief. Content filter: general audience.\""}
+{"sft_source": "alpaca", "sft_index": 19462, "l2_text": "User preferences: Language=English, Tone=concise, Format=numbered list, Expertise=intermediate."}
+{"sft_source": "alpaca", "sft_index": 28557, "l2_text": "Configuration: Language=English, Tone=concise, Format=numbered list, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 21994, "l2_text": "- \"Session config: Language: English. Tone: neutral. Length: concise. Content filter: educational-only.\""}
+{"sft_source": "alpaca", "sft_index": 18220, "l2_text": "Session config: Language: English. Tone: concise. Length: brief. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 18904, "l2_text": "User settings: English language, concise format, expert tone, educational content filter."}
+{"sft_source": "alpaca", "sft_index": 17678, "l2_text": "- \"Session config: Tone: concise. Length: brief. Content filter: none.\""}
+{"sft_source": "alpaca", "sft_index": 26953, "l2_text": "Preferences: Tone=casual, Format=plain text, Length=brief."}
+{"sft_source": "alpaca", "sft_index": 36603, "l2_text": "Session config: Language: English. Tone: concise. Length: brief. Content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 20975, "l2_text": "Session config: Tone: neutral. Length: concise. Format: summary. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 6417, "l2_text": "Session config: English language, professional tone, detailed length, premium access."}
+{"sft_source": "dolly", "sft_index": 9622, "l2_text": "- \"User preferences: Language=English, Tone=concise, Length=short.\""}
+{"sft_source": "alpaca", "sft_index": 17523, "l2_text": "- \"Session config: Tone: casual. Length: brief. Content filter: creative dialogue.\""}
+{"sft_source": "alpaca", "sft_index": 8245, "l2_text": "- \"Session config: Language: English. Tone: neutral. Length: concise. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 42726, "l2_text": "- \"Session config: Language: English. Tone: professional. Length: concise. Content filter: educational.\""}
+{"sft_source": "alpaca", "sft_index": 35050, "l2_text": "Session config: Language: English. Tone: concise. Length: brief. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 38517, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: educational-only."}
+{"sft_source": "dolly", "sft_index": 1900, "l2_text": "- \"Configuration: concise tone, English language, bullet points, general knowledge.\""}
+{"sft_source": "alpaca", "sft_index": 21213, "l2_text": "Session config: English language, concise responses, technical expertise, content filter: educational-only."}
+{"sft_source": "alpaca", "sft_index": 13029, "l2_text": "Session config: Tone: concise. Length: brief. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 30179, "l2_text": "Settings: English language, concise format, analytical tone, intermediate expertise."}
+{"sft_source": "alpaca", "sft_index": 21379, "l2_text": "- \"Session config: Length: concise. Tone: technical. Format: code snippet.\""}
+{"sft_source": "alpaca", "sft_index": 38659, "l2_text": "Preferences: Tone=casual, Format=numbered list, Length=brief, Content filter=general audience."}
+{"sft_source": "dolly", "sft_index": 12258, "l2_text": "Session config: Tone: casual. Length: brief. Format: bullet points. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 23970, "l2_text": "Session config: Tone: technical. Format: code snippet. Length: concise. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 18110, "l2_text": "- \"Session config: Language: English. Tone: concise. Length: brief. Expertise: general.\""}
+{"sft_source": "alpaca", "sft_index": 4965, "l2_text": "Session config: Tone: neutral. Length: concise. Format: numbered list. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 5913, "l2_text": "Session config: Tone: neutral. Length: concise. Content filter: general audience."}
+{"sft_source": "dolly", "sft_index": 11888, "l2_text": "Session config: Tone: neutral. Length: concise. Format: summary. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 13261, "l2_text": "Session config: Tone: casual. Length: brief. Content filter: humorous."}
+{"sft_source": "alpaca", "sft_index": 30134, "l2_text": "Session config: Language: English. Tone: concise. Length: brief. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 9353, "l2_text": "- \"Config: Tone: concise. Length: brief. Expertise: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 40255, "l2_text": "Configuration: casual tone, English language, brief responses, content_filter=culinary."}
+{"sft_source": "alpaca", "sft_index": 30433, "l2_text": "Settings: concise summary, English language, casual tone, no content filter."}
+{"sft_source": "alpaca", "sft_index": 29927, "l2_text": "Session config: Tone: casual. Length: brief. Format: conversational. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 19920, "l2_text": "Settings: casual tone, English language, brief responses, content filter: general."}
+{"sft_source": "alpaca", "sft_index": 43186, "l2_text": "Configuration: casual tone, brief responses, family-friendly content policy."}
+{"sft_source": "alpaca", "sft_index": 38537, "l2_text": "Session config: Tone: casual. Length: brief. Format: numbered lists. Access: standard."}
+{"sft_source": "alpaca", "sft_index": 34253, "l2_text": "- \"Session config: Tone: informative. Length: concise. Expertise: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 28814, "l2_text": "Configuration: tone=informal, length=brief, content_filter=family-friendly."}
+{"sft_source": "alpaca", "sft_index": 33321, "l2_text": "Settings: English language, bullet points format, concise length, intermediate expertise level."}
+{"sft_source": "alpaca", "sft_index": 26527, "l2_text": "Configuration: concise tone, detailed length, content_filter: entertainment, access_tier: standard."}
+{"sft_source": "alpaca", "sft_index": 18991, "l2_text": "- \"Session config: Tone: informative. Length: concise. Format: bullet points.\""}
+{"sft_source": "alpaca", "sft_index": 13467, "l2_text": "- \"Session config: Tone: urgent. Length: brief. Access: standard.\""}
+{"sft_source": "alpaca", "sft_index": 25068, "l2_text": "- \"Session config: Tone: concise. Length: brief. Expertise: intermediate.\""}
+{"sft_source": "alpaca", "sft_index": 42544, "l2_text": "Session config: Tone: professional. Length: concise. Format: numbered lists. Content filter: general."}
+{"sft_source": "alpaca", "sft_index": 34669, "l2_text": "Session config: Language=English, Tone=casual, Format=bullet points, Length=brief."}

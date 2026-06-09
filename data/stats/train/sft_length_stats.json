@@ -1,0 +1,12 @@
+{
+  "phase": "sft",
+  "count": 9958,
+  "min": 129,
+  "max": 4009,
+  "mean": 620.4,
+  "p50": 609,
+  "p95": 1052,
+  "p99": 1310,
+  "recommended_max_seq_length": 4096,
+  "delimiter_issues": 0
+}

@@ -1,0 +1,12 @@
+{
+  "phase": "dpo",
+  "count": 8734,
+  "min": 155,
+  "max": 6031,
+  "mean": 669.8,
+  "p50": 665,
+  "p95": 970,
+  "p99": 1238,
+  "recommended_max_seq_length": 8192,
+  "delimiter_issues": 0
+}

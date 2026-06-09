@@ -1,0 +1,12 @@
+# TensorTrust external-benchmark configuration.
+# Loaded via load_config(Path("configs/tensortrust.yaml"));
+# configs/base_linear.yaml is merged underneath for
+# ModelConfig/SFTConfig/etc.
+
+tensortrust:
+  hijacking_csv: "data/external/tensortrust/hijacking_robustness.csv"
+  extraction_csv: "data/external/tensortrust/extraction_robustness.csv"
+  generation_max_new_tokens: 128
+  generation_temperature: 0.0
+  generation_batch_size: 4
+  rouge_recall_threshold: 0.5

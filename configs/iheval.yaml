@@ -1,0 +1,20 @@
+# IHEval external-benchmark configuration.
+
+iheval:
+  benchmark_root: "vendor/iheval/benchmark"
+  scorer_src_root: "vendor/iheval"
+  generation_max_new_tokens: 2048
+  generation_temperature: 0.0
+  generation_batch_size: 2
+  default_tasks:
+    - "single-turn"
+    - "multi-turn"
+    - "verb-extract"
+    - "translation"
+    - "lang-detect"
+    - "user-prompt-hijack"
+    - "system-prompt-extract"
+  default_settings:
+    - "aligned"
+    - "conflict"
+    - "reference"

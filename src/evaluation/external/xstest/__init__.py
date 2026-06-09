@@ -1,0 +1,1 @@
+"""XSTest external-benchmark adapter."""
